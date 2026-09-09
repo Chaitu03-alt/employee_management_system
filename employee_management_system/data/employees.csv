@@ -1,0 +1,1472 @@
+Employee ID,Name,Department,Salary,Experience,City,Joining Date,Performance Rating
+1,Employee 1,Sales,5993,8,Unknown,Unknown,3
+2,Employee 2,Research & Development,5130,10,Unknown,Unknown,4
+4,Employee 4,Research & Development,2090,7,Unknown,Unknown,3
+5,Employee 5,Research & Development,2909,8,Unknown,Unknown,3
+7,Employee 7,Research & Development,3468,6,Unknown,Unknown,3
+8,Employee 8,Research & Development,3068,8,Unknown,Unknown,3
+10,Employee 10,Research & Development,2670,12,Unknown,Unknown,4
+11,Employee 11,Research & Development,2693,1,Unknown,Unknown,4
+12,Employee 12,Research & Development,9526,10,Unknown,Unknown,4
+13,Employee 13,Research & Development,5237,17,Unknown,Unknown,3
+14,Employee 14,Research & Development,2426,6,Unknown,Unknown,3
+15,Employee 15,Research & Development,4193,10,Unknown,Unknown,3
+16,Employee 16,Research & Development,2911,5,Unknown,Unknown,3
+18,Employee 18,Research & Development,2661,3,Unknown,Unknown,3
+19,Employee 19,Research & Development,2028,6,Unknown,Unknown,3
+20,Employee 20,Research & Development,9980,10,Unknown,Unknown,3
+21,Employee 21,Research & Development,3298,7,Unknown,Unknown,3
+22,Employee 22,Research & Development,2935,1,Unknown,Unknown,3
+23,Employee 23,Sales,15427,31,Unknown,Unknown,3
+24,Employee 24,Research & Development,3944,6,Unknown,Unknown,3
+26,Employee 26,Research & Development,4011,5,Unknown,Unknown,3
+27,Employee 27,Sales,3407,10,Unknown,Unknown,4
+28,Employee 28,Research & Development,11994,13,Unknown,Unknown,3
+30,Employee 30,Research & Development,1232,0,Unknown,Unknown,3
+31,Employee 31,Research & Development,2960,8,Unknown,Unknown,3
+32,Employee 32,Research & Development,19094,26,Unknown,Unknown,3
+33,Employee 33,Research & Development,3919,10,Unknown,Unknown,4
+35,Employee 35,Sales,6825,10,Unknown,Unknown,3
+36,Employee 36,Research & Development,10248,24,Unknown,Unknown,3
+38,Employee 38,Sales,18947,22,Unknown,Unknown,3
+39,Employee 39,Research & Development,2496,7,Unknown,Unknown,3
+40,Employee 40,Research & Development,6465,9,Unknown,Unknown,3
+41,Employee 41,Research & Development,2206,10,Unknown,Unknown,3
+42,Employee 42,Sales,2086,19,Unknown,Unknown,3
+45,Employee 45,Research & Development,2293,6,Unknown,Unknown,3
+46,Employee 46,Research & Development,2645,6,Unknown,Unknown,3
+47,Employee 47,Sales,2683,3,Unknown,Unknown,3
+49,Employee 49,Sales,2014,2,Unknown,Unknown,3
+51,Employee 51,Research & Development,3419,6,Unknown,Unknown,3
+52,Employee 52,Sales,5376,10,Unknown,Unknown,3
+53,Employee 53,Research & Development,1951,1,Unknown,Unknown,3
+54,Employee 54,Research & Development,2341,1,Unknown,Unknown,3
+55,Employee 55,Research & Development,2293,1,Unknown,Unknown,3
+56,Employee 56,Sales,8726,9,Unknown,Unknown,3
+57,Employee 57,Research & Development,4011,12,Unknown,Unknown,4
+58,Employee 58,Research & Development,19545,23,Unknown,Unknown,3
+60,Employee 60,Sales,4568,10,Unknown,Unknown,4
+61,Employee 61,Research & Development,3022,8,Unknown,Unknown,4
+62,Employee 62,Sales,5772,14,Unknown,Unknown,4
+63,Employee 63,Research & Development,2269,1,Unknown,Unknown,3
+64,Employee 64,Research & Development,5381,23,Unknown,Unknown,3
+65,Employee 65,Research & Development,3441,2,Unknown,Unknown,3
+68,Employee 68,Sales,5454,9,Unknown,Unknown,4
+70,Employee 70,Research & Development,9884,10,Unknown,Unknown,3
+72,Employee 72,Sales,4157,5,Unknown,Unknown,3
+73,Employee 73,Research & Development,13458,15,Unknown,Unknown,3
+74,Employee 74,Sales,9069,9,Unknown,Unknown,4
+75,Employee 75,Research & Development,4014,4,Unknown,Unknown,3
+76,Employee 76,Research & Development,5915,10,Unknown,Unknown,4
+77,Employee 77,Research & Development,5993,7,Unknown,Unknown,3
+78,Employee 78,Research & Development,6162,9,Unknown,Unknown,4
+79,Employee 79,Research & Development,2406,10,Unknown,Unknown,3
+80,Employee 80,Research & Development,18740,29,Unknown,Unknown,3
+81,Employee 81,Sales,7637,28,Unknown,Unknown,3
+83,Employee 83,Research & Development,10096,17,Unknown,Unknown,3
+84,Employee 84,Research & Development,14756,21,Unknown,Unknown,3
+85,Employee 85,Research & Development,6499,6,Unknown,Unknown,3
+86,Employee 86,Research & Development,9724,25,Unknown,Unknown,3
+88,Employee 88,Research & Development,2194,5,Unknown,Unknown,3
+90,Employee 90,Research & Development,3388,2,Unknown,Unknown,3
+91,Employee 91,Sales,5473,20,Unknown,Unknown,3
+94,Employee 94,Research & Development,2703,6,Unknown,Unknown,4
+95,Employee 95,Research & Development,2501,1,Unknown,Unknown,3
+96,Employee 96,Research & Development,6220,10,Unknown,Unknown,3
+97,Employee 97,Research & Development,3038,5,Unknown,Unknown,3
+98,Employee 98,Research & Development,4424,11,Unknown,Unknown,4
+100,Employee 100,Sales,4312,16,Unknown,Unknown,3
+101,Employee 101,Research & Development,13245,17,Unknown,Unknown,3
+102,Employee 102,Research & Development,13664,16,Unknown,Unknown,3
+103,Employee 103,Human Resources,5021,16,Unknown,Unknown,4
+104,Employee 104,Research & Development,5126,10,Unknown,Unknown,3
+105,Employee 105,Research & Development,2859,6,Unknown,Unknown,3
+106,Employee 106,Sales,10239,24,Unknown,Unknown,3
+107,Employee 107,Research & Development,5329,17,Unknown,Unknown,3
+110,Employee 110,Research & Development,4325,5,Unknown,Unknown,3
+112,Employee 112,Research & Development,7260,37,Unknown,Unknown,3
+113,Employee 113,Sales,2322,3,Unknown,Unknown,3
+116,Employee 116,Research & Development,2075,10,Unknown,Unknown,4
+117,Employee 117,Research & Development,4152,11,Unknown,Unknown,3
+118,Employee 118,Sales,9619,9,Unknown,Unknown,3
+119,Employee 119,Research & Development,13503,22,Unknown,Unknown,4
+120,Employee 120,Sales,5441,11,Unknown,Unknown,4
+121,Employee 121,Sales,5209,11,Unknown,Unknown,3
+124,Employee 124,Research & Development,10673,21,Unknown,Unknown,3
+125,Employee 125,Sales,5010,12,Unknown,Unknown,3
+126,Employee 126,Research & Development,13549,16,Unknown,Unknown,3
+128,Employee 128,Sales,4999,4,Unknown,Unknown,4
+129,Employee 129,Sales,4221,5,Unknown,Unknown,3
+131,Employee 131,Sales,13872,38,Unknown,Unknown,3
+132,Employee 132,Research & Development,2042,17,Unknown,Unknown,3
+133,Employee 133,Human Resources,2073,7,Unknown,Unknown,4
+134,Employee 134,Research & Development,2956,1,Unknown,Unknown,3
+137,Employee 137,Research & Development,2926,1,Unknown,Unknown,3
+138,Employee 138,Research & Development,4809,16,Unknown,Unknown,3
+139,Employee 139,Research & Development,5163,17,Unknown,Unknown,3
+140,Employee 140,Human Resources,18844,30,Unknown,Unknown,4
+141,Employee 141,Research & Development,18172,28,Unknown,Unknown,3
+142,Employee 142,Sales,5744,6,Unknown,Unknown,3
+143,Employee 143,Research & Development,2889,2,Unknown,Unknown,3
+144,Employee 144,Research & Development,2871,1,Unknown,Unknown,3
+145,Employee 145,Research & Development,7484,23,Unknown,Unknown,4
+147,Employee 147,Research & Development,6074,9,Unknown,Unknown,4
+148,Employee 148,Human Resources,17328,23,Unknown,Unknown,3
+150,Employee 150,Research & Development,2774,6,Unknown,Unknown,3
+151,Employee 151,Research & Development,4505,12,Unknown,Unknown,3
+152,Employee 152,Sales,7428,12,Unknown,Unknown,3
+153,Employee 153,Research & Development,11631,14,Unknown,Unknown,3
+154,Employee 154,Sales,9738,10,Unknown,Unknown,3
+155,Employee 155,Research & Development,2835,7,Unknown,Unknown,4
+158,Employee 158,Sales,16959,25,Unknown,Unknown,3
+159,Employee 159,Research & Development,2613,10,Unknown,Unknown,4
+160,Employee 160,Sales,6146,8,Unknown,Unknown,3
+161,Employee 161,Research & Development,4963,7,Unknown,Unknown,3
+162,Employee 162,Research & Development,19537,23,Unknown,Unknown,3
+163,Employee 163,Sales,6172,12,Unknown,Unknown,3
+164,Employee 164,Research & Development,2368,5,Unknown,Unknown,3
+165,Employee 165,Research & Development,10312,40,Unknown,Unknown,3
+167,Employee 167,Sales,1675,0,Unknown,Unknown,3
+169,Employee 169,Research & Development,2523,3,Unknown,Unknown,3
+170,Employee 170,Research & Development,6567,16,Unknown,Unknown,3
+171,Employee 171,Research & Development,4739,18,Unknown,Unknown,3
+174,Employee 174,Sales,9208,16,Unknown,Unknown,3
+175,Employee 175,Sales,4559,4,Unknown,Unknown,3
+176,Employee 176,Sales,8189,12,Unknown,Unknown,3
+177,Employee 177,Human Resources,2942,8,Unknown,Unknown,4
+178,Employee 178,Research & Development,4941,7,Unknown,Unknown,4
+179,Employee 179,Research & Development,10650,18,Unknown,Unknown,3
+182,Employee 182,Sales,5902,17,Unknown,Unknown,3
+183,Employee 183,Sales,8639,6,Unknown,Unknown,3
+184,Employee 184,Human Resources,6347,12,Unknown,Unknown,3
+190,Employee 190,Research & Development,4200,10,Unknown,Unknown,4
+192,Employee 192,Research & Development,3452,9,Unknown,Unknown,3
+193,Employee 193,Research & Development,4317,19,Unknown,Unknown,4
+194,Employee 194,Research & Development,2632,5,Unknown,Unknown,3
+195,Employee 195,Sales,4668,9,Unknown,Unknown,3
+197,Employee 197,Research & Development,3204,8,Unknown,Unknown,3
+198,Employee 198,Research & Development,2720,6,Unknown,Unknown,3
+199,Employee 199,Research & Development,17181,21,Unknown,Unknown,3
+200,Employee 200,Research & Development,2238,7,Unknown,Unknown,4
+201,Employee 201,Research & Development,1483,1,Unknown,Unknown,3
+202,Employee 202,Research & Development,5605,20,Unknown,Unknown,3
+204,Employee 204,Sales,7295,10,Unknown,Unknown,3
+205,Employee 205,Sales,2306,13,Unknown,Unknown,4
+206,Employee 206,Research & Development,2348,20,Unknown,Unknown,3
+207,Employee 207,Sales,8998,9,Unknown,Unknown,3
+208,Employee 208,Research & Development,4319,10,Unknown,Unknown,3
+211,Employee 211,Research & Development,6132,10,Unknown,Unknown,3
+214,Employee 214,Research & Development,3346,9,Unknown,Unknown,4
+215,Employee 215,Sales,10855,15,Unknown,Unknown,3
+216,Employee 216,Sales,2231,6,Unknown,Unknown,3
+217,Employee 217,Research & Development,2323,2,Unknown,Unknown,4
+218,Employee 218,Research & Development,2024,6,Unknown,Unknown,3
+221,Employee 221,Research & Development,2713,5,Unknown,Unknown,3
+223,Employee 223,Research & Development,9439,12,Unknown,Unknown,3
+224,Employee 224,Research & Development,2566,1,Unknown,Unknown,3
+226,Employee 226,Research & Development,19926,21,Unknown,Unknown,3
+227,Employee 227,Research & Development,2451,13,Unknown,Unknown,3
+228,Employee 228,Sales,9419,12,Unknown,Unknown,3
+230,Employee 230,Sales,8686,12,Unknown,Unknown,4
+231,Employee 231,Research & Development,3038,8,Unknown,Unknown,4
+233,Employee 233,Research & Development,3058,6,Unknown,Unknown,3
+235,Employee 235,Sales,2325,1,Unknown,Unknown,4
+238,Employee 238,Research & Development,2088,13,Unknown,Unknown,3
+239,Employee 239,Research & Development,3072,12,Unknown,Unknown,3
+240,Employee 240,Sales,5006,9,Unknown,Unknown,3
+241,Employee 241,Research & Development,4257,19,Unknown,Unknown,3
+242,Employee 242,Research & Development,2500,4,Unknown,Unknown,3
+243,Employee 243,Research & Development,1102,1,Unknown,Unknown,4
+244,Employee 244,Sales,10453,24,Unknown,Unknown,4
+245,Employee 245,Research & Development,2288,2,Unknown,Unknown,3
+246,Employee 246,Research & Development,3929,7,Unknown,Unknown,4
+247,Employee 247,Research & Development,2311,9,Unknown,Unknown,3
+248,Employee 248,Sales,3140,4,Unknown,Unknown,4
+249,Employee 249,Research & Development,3690,5,Unknown,Unknown,3
+250,Employee 250,Research & Development,4450,5,Unknown,Unknown,3
+252,Employee 252,Research & Development,2756,8,Unknown,Unknown,3
+253,Employee 253,Research & Development,19033,21,Unknown,Unknown,3
+254,Employee 254,Research & Development,18722,36,Unknown,Unknown,3
+256,Employee 256,Research & Development,9547,10,Unknown,Unknown,3
+258,Employee 258,Research & Development,13734,21,Unknown,Unknown,3
+259,Employee 259,Research & Development,19999,34,Unknown,Unknown,3
+260,Employee 260,Research & Development,2279,7,Unknown,Unknown,3
+261,Employee 261,Research & Development,5916,8,Unknown,Unknown,3
+262,Employee 262,Research & Development,2089,7,Unknown,Unknown,3
+264,Employee 264,Research & Development,16792,22,Unknown,Unknown,4
+267,Employee 267,Research & Development,3564,8,Unknown,Unknown,3
+269,Employee 269,Research & Development,4425,10,Unknown,Unknown,3
+270,Employee 270,Research & Development,5265,11,Unknown,Unknown,3
+271,Employee 271,Research & Development,6553,14,Unknown,Unknown,3
+273,Employee 273,Research & Development,6261,9,Unknown,Unknown,3
+274,Employee 274,Research & Development,4298,6,Unknown,Unknown,3
+275,Employee 275,Research & Development,6804,7,Unknown,Unknown,3
+277,Employee 277,Research & Development,3815,5,Unknown,Unknown,3
+281,Employee 281,Research & Development,2741,15,Unknown,Unknown,3
+282,Employee 282,Research & Development,6673,17,Unknown,Unknown,3
+283,Employee 283,Sales,7639,10,Unknown,Unknown,4
+284,Employee 284,Research & Development,2328,4,Unknown,Unknown,3
+286,Employee 286,Research & Development,2153,8,Unknown,Unknown,3
+287,Employee 287,Research & Development,4876,5,Unknown,Unknown,3
+288,Employee 288,Research & Development,9396,17,Unknown,Unknown,3
+291,Employee 291,Sales,10400,14,Unknown,Unknown,3
+292,Employee 292,Research & Development,8474,12,Unknown,Unknown,4
+293,Employee 293,Sales,9981,7,Unknown,Unknown,3
+296,Employee 296,Research & Development,12490,16,Unknown,Unknown,3
+297,Employee 297,Research & Development,2657,8,Unknown,Unknown,3
+298,Employee 298,Sales,13591,16,Unknown,Unknown,3
+299,Employee 299,Sales,6696,9,Unknown,Unknown,3
+300,Employee 300,Research & Development,2058,7,Unknown,Unknown,3
+302,Employee 302,Sales,8865,23,Unknown,Unknown,3
+303,Employee 303,Sales,5940,16,Unknown,Unknown,3
+304,Employee 304,Research & Development,5914,16,Unknown,Unknown,3
+305,Employee 305,Research & Development,2622,7,Unknown,Unknown,4
+306,Employee 306,Research & Development,12185,10,Unknown,Unknown,3
+307,Employee 307,Sales,10609,17,Unknown,Unknown,3
+308,Employee 308,Research & Development,4345,6,Unknown,Unknown,3
+309,Employee 309,Research & Development,2177,7,Unknown,Unknown,3
+311,Employee 311,Sales,2793,13,Unknown,Unknown,3
+312,Employee 312,Sales,7918,11,Unknown,Unknown,3
+314,Employee 314,Sales,8789,10,Unknown,Unknown,3
+315,Employee 315,Research & Development,2389,4,Unknown,Unknown,3
+316,Employee 316,Research & Development,3212,6,Unknown,Unknown,3
+319,Employee 319,Research & Development,19232,22,Unknown,Unknown,3
+321,Employee 321,Human Resources,2267,7,Unknown,Unknown,3
+323,Employee 323,Sales,19517,32,Unknown,Unknown,3
+325,Employee 325,Research & Development,2436,8,Unknown,Unknown,3
+327,Employee 327,Sales,16064,22,Unknown,Unknown,4
+328,Employee 328,Research & Development,2707,13,Unknown,Unknown,4
+329,Employee 329,Sales,19068,33,Unknown,Unknown,3
+330,Employee 330,Sales,3931,6,Unknown,Unknown,3
+331,Employee 331,Research & Development,3730,4,Unknown,Unknown,3
+332,Employee 332,Research & Development,2232,7,Unknown,Unknown,3
+333,Employee 333,Sales,4465,4,Unknown,Unknown,3
+334,Employee 334,Research & Development,3072,17,Unknown,Unknown,3
+335,Employee 335,Research & Development,3319,9,Unknown,Unknown,3
+336,Employee 336,Research & Development,19202,25,Unknown,Unknown,3
+337,Employee 337,Research & Development,13675,9,Unknown,Unknown,3
+338,Employee 338,Research & Development,2911,2,Unknown,Unknown,3
+339,Employee 339,Research & Development,5957,13,Unknown,Unknown,3
+340,Employee 340,Research & Development,3920,17,Unknown,Unknown,3
+341,Employee 341,Research & Development,6434,9,Unknown,Unknown,3
+342,Employee 342,Research & Development,10048,17,Unknown,Unknown,3
+343,Employee 343,Research & Development,10938,20,Unknown,Unknown,4
+346,Employee 346,Research & Development,2340,6,Unknown,Unknown,3
+347,Employee 347,Research & Development,6545,10,Unknown,Unknown,3
+349,Employee 349,Sales,6931,10,Unknown,Unknown,3
+350,Employee 350,Research & Development,4898,5,Unknown,Unknown,3
+351,Employee 351,Research & Development,2593,10,Unknown,Unknown,3
+352,Employee 352,Research & Development,19436,22,Unknown,Unknown,3
+353,Employee 353,Research & Development,2723,1,Unknown,Unknown,3
+355,Employee 355,Research & Development,3479,6,Unknown,Unknown,3
+359,Employee 359,Research & Development,2794,5,Unknown,Unknown,4
+361,Employee 361,Sales,5249,13,Unknown,Unknown,3
+362,Employee 362,Research & Development,2176,9,Unknown,Unknown,3
+363,Employee 363,Sales,16872,28,Unknown,Unknown,3
+364,Employee 364,Research & Development,3485,5,Unknown,Unknown,3
+366,Employee 366,Sales,6644,10,Unknown,Unknown,3
+367,Employee 367,Research & Development,5582,10,Unknown,Unknown,4
+369,Employee 369,Research & Development,4000,6,Unknown,Unknown,3
+372,Employee 372,Research & Development,13496,21,Unknown,Unknown,3
+373,Employee 373,Research & Development,3210,16,Unknown,Unknown,3
+374,Employee 374,Research & Development,19045,37,Unknown,Unknown,3
+376,Employee 376,Research & Development,11849,10,Unknown,Unknown,3
+377,Employee 377,Research & Development,2070,5,Unknown,Unknown,4
+378,Employee 378,Sales,6502,7,Unknown,Unknown,3
+379,Employee 379,Research & Development,3230,3,Unknown,Unknown,3
+380,Employee 380,Research & Development,13603,15,Unknown,Unknown,3
+381,Employee 381,Research & Development,11996,10,Unknown,Unknown,3
+382,Employee 382,Sales,5605,8,Unknown,Unknown,4
+384,Employee 384,Research & Development,6397,6,Unknown,Unknown,4
+385,Employee 385,Research & Development,19144,28,Unknown,Unknown,3
+386,Employee 386,Research & Development,17584,21,Unknown,Unknown,3
+387,Employee 387,Sales,4907,20,Unknown,Unknown,4
+388,Employee 388,Sales,4554,10,Unknown,Unknown,3
+389,Employee 389,Research & Development,5415,12,Unknown,Unknown,3
+390,Employee 390,Research & Development,4741,5,Unknown,Unknown,3
+391,Employee 391,Research & Development,2115,17,Unknown,Unknown,3
+392,Employee 392,Research & Development,3161,19,Unknown,Unknown,4
+393,Employee 393,Research & Development,5745,10,Unknown,Unknown,3
+394,Employee 394,Research & Development,2373,5,Unknown,Unknown,3
+395,Employee 395,Research & Development,3310,5,Unknown,Unknown,4
+396,Employee 396,Research & Development,18665,22,Unknown,Unknown,3
+397,Employee 397,Research & Development,4485,10,Unknown,Unknown,3
+399,Employee 399,Sales,2789,2,Unknown,Unknown,3
+401,Employee 401,Sales,5828,8,Unknown,Unknown,3
+403,Employee 403,Research & Development,2326,4,Unknown,Unknown,3
+404,Employee 404,Sales,13525,23,Unknown,Unknown,3
+405,Employee 405,Research & Development,1420,0,Unknown,Unknown,3
+406,Employee 406,Sales,8020,12,Unknown,Unknown,3
+407,Employee 407,Research & Development,3688,4,Unknown,Unknown,3
+408,Employee 408,Research & Development,5482,13,Unknown,Unknown,3
+410,Employee 410,Sales,16015,22,Unknown,Unknown,3
+411,Employee 411,Sales,1200,0,Unknown,Unknown,3
+412,Employee 412,Research & Development,5661,9,Unknown,Unknown,3
+416,Employee 416,Sales,6929,10,Unknown,Unknown,3
+417,Employee 417,Research & Development,9613,19,Unknown,Unknown,3
+419,Employee 419,Research & Development,5674,11,Unknown,Unknown,3
+420,Employee 420,Sales,5484,13,Unknown,Unknown,3
+421,Employee 421,Research & Development,12061,19,Unknown,Unknown,3
+422,Employee 422,Research & Development,5660,12,Unknown,Unknown,3
+423,Employee 423,Research & Development,4821,6,Unknown,Unknown,3
+424,Employee 424,Human Resources,6410,9,Unknown,Unknown,3
+425,Employee 425,Research & Development,5210,24,Unknown,Unknown,3
+426,Employee 426,Research & Development,2695,3,Unknown,Unknown,3
+428,Employee 428,Research & Development,11878,12,Unknown,Unknown,3
+429,Employee 429,Research & Development,17068,21,Unknown,Unknown,3
+430,Employee 430,Research & Development,2455,9,Unknown,Unknown,3
+431,Employee 431,Research & Development,13964,25,Unknown,Unknown,3
+433,Employee 433,Research & Development,4941,11,Unknown,Unknown,3
+434,Employee 434,Research & Development,2478,4,Unknown,Unknown,3
+436,Employee 436,Sales,5228,13,Unknown,Unknown,3
+437,Employee 437,Sales,4478,5,Unknown,Unknown,3
+438,Employee 438,Sales,7547,13,Unknown,Unknown,3
+439,Employee 439,Research & Development,5055,10,Unknown,Unknown,3
+440,Employee 440,Research & Development,3464,5,Unknown,Unknown,3
+441,Employee 441,Research & Development,5775,11,Unknown,Unknown,3
+442,Employee 442,Research & Development,8943,10,Unknown,Unknown,4
+444,Employee 444,Research & Development,19272,21,Unknown,Unknown,3
+445,Employee 445,Sales,5238,12,Unknown,Unknown,3
+446,Employee 446,Sales,4682,9,Unknown,Unknown,3
+447,Employee 447,Research & Development,18300,21,Unknown,Unknown,3
+448,Employee 448,Research & Development,5257,9,Unknown,Unknown,3
+449,Employee 449,Sales,6349,6,Unknown,Unknown,3
+450,Employee 450,Research & Development,4869,20,Unknown,Unknown,3
+451,Employee 451,Research & Development,9985,10,Unknown,Unknown,3
+452,Employee 452,Research & Development,3697,12,Unknown,Unknown,3
+453,Employee 453,Sales,7457,6,Unknown,Unknown,4
+454,Employee 454,Research & Development,2119,7,Unknown,Unknown,3
+455,Employee 455,Research & Development,3983,4,Unknown,Unknown,3
+456,Employee 456,Sales,6118,10,Unknown,Unknown,3
+458,Employee 458,Sales,6214,8,Unknown,Unknown,3
+460,Employee 460,Research & Development,6347,8,Unknown,Unknown,3
+461,Employee 461,Research & Development,11510,12,Unknown,Unknown,3
+462,Employee 462,Research & Development,7143,11,Unknown,Unknown,3
+463,Employee 463,Sales,8268,7,Unknown,Unknown,3
+464,Employee 464,Research & Development,8095,17,Unknown,Unknown,3
+465,Employee 465,Research & Development,2904,4,Unknown,Unknown,3
+466,Employee 466,Research & Development,6032,8,Unknown,Unknown,3
+467,Employee 467,Sales,2976,5,Unknown,Unknown,3
+468,Employee 468,Research & Development,15992,16,Unknown,Unknown,3
+469,Employee 469,Sales,4649,4,Unknown,Unknown,3
+470,Employee 470,Human Resources,2696,4,Unknown,Unknown,3
+471,Employee 471,Research & Development,2370,8,Unknown,Unknown,3
+473,Employee 473,Sales,12504,15,Unknown,Unknown,4
+474,Employee 474,Research & Development,5974,13,Unknown,Unknown,3
+475,Employee 475,Sales,4736,4,Unknown,Unknown,3
+476,Employee 476,Sales,5296,8,Unknown,Unknown,3
+477,Employee 477,Research & Development,6781,14,Unknown,Unknown,4
+478,Employee 478,Sales,2174,3,Unknown,Unknown,3
+479,Employee 479,Sales,6653,7,Unknown,Unknown,3
+481,Employee 481,Sales,9699,16,Unknown,Unknown,3
+482,Employee 482,Research & Development,6755,15,Unknown,Unknown,3
+483,Employee 483,Research & Development,2213,10,Unknown,Unknown,3
+484,Employee 484,Sales,2610,3,Unknown,Unknown,4
+485,Employee 485,Sales,2851,1,Unknown,Unknown,3
+486,Employee 486,Research & Development,3452,17,Unknown,Unknown,4
+487,Employee 487,Research & Development,5258,7,Unknown,Unknown,3
+488,Employee 488,Sales,9355,8,Unknown,Unknown,3
+491,Employee 491,Research & Development,10496,20,Unknown,Unknown,3
+492,Employee 492,Sales,6380,8,Unknown,Unknown,3
+493,Employee 493,Research & Development,2657,3,Unknown,Unknown,3
+494,Employee 494,Sales,2716,1,Unknown,Unknown,3
+495,Employee 495,Research & Development,2201,6,Unknown,Unknown,3
+496,Employee 496,Research & Development,6540,10,Unknown,Unknown,3
+497,Employee 497,Research & Development,3816,5,Unknown,Unknown,3
+498,Employee 498,Sales,5253,7,Unknown,Unknown,3
+499,Employee 499,Research & Development,10965,26,Unknown,Unknown,4
+500,Employee 500,Sales,4936,18,Unknown,Unknown,3
+501,Employee 501,Research & Development,2543,6,Unknown,Unknown,3
+502,Employee 502,Sales,5304,9,Unknown,Unknown,3
+505,Employee 505,Research & Development,16659,30,Unknown,Unknown,3
+507,Employee 507,Sales,4260,5,Unknown,Unknown,3
+508,Employee 508,Sales,2476,1,Unknown,Unknown,3
+510,Employee 510,Research & Development,3102,7,Unknown,Unknown,4
+511,Employee 511,Research & Development,2244,2,Unknown,Unknown,3
+513,Employee 513,Sales,7596,10,Unknown,Unknown,3
+514,Employee 514,Research & Development,2285,3,Unknown,Unknown,4
+515,Employee 515,Research & Development,3034,18,Unknown,Unknown,3
+516,Employee 516,Sales,5715,8,Unknown,Unknown,3
+517,Employee 517,Research & Development,2576,8,Unknown,Unknown,3
+518,Employee 518,Research & Development,4197,18,Unknown,Unknown,3
+520,Employee 520,Research & Development,14336,25,Unknown,Unknown,3
+521,Employee 521,Research & Development,3448,20,Unknown,Unknown,4
+522,Employee 522,Research & Development,19406,24,Unknown,Unknown,3
+523,Employee 523,Sales,6538,6,Unknown,Unknown,3
+524,Employee 524,Research & Development,4306,13,Unknown,Unknown,3
+525,Employee 525,Research & Development,2258,8,Unknown,Unknown,4
+526,Employee 526,Research & Development,4522,8,Unknown,Unknown,3
+527,Employee 527,Sales,4487,5,Unknown,Unknown,3
+529,Employee 529,Research & Development,4449,15,Unknown,Unknown,3
+530,Employee 530,Research & Development,2218,4,Unknown,Unknown,3
+531,Employee 531,Research & Development,19197,21,Unknown,Unknown,3
+532,Employee 532,Sales,13212,36,Unknown,Unknown,3
+533,Employee 533,Sales,6577,6,Unknown,Unknown,3
+534,Employee 534,Sales,8392,10,Unknown,Unknown,3
+536,Employee 536,Research & Development,4558,10,Unknown,Unknown,3
+538,Employee 538,Research & Development,4031,6,Unknown,Unknown,3
+543,Employee 543,Research & Development,7969,28,Unknown,Unknown,3
+544,Employee 544,Research & Development,2654,8,Unknown,Unknown,4
+546,Employee 546,Research & Development,16555,31,Unknown,Unknown,3
+547,Employee 547,Research & Development,4556,19,Unknown,Unknown,3
+548,Employee 548,Research & Development,6091,11,Unknown,Unknown,4
+549,Employee 549,Research & Development,19566,33,Unknown,Unknown,3
+550,Employee 550,Research & Development,4810,19,Unknown,Unknown,3
+551,Employee 551,Research & Development,4523,7,Unknown,Unknown,3
+554,Employee 554,Sales,3202,6,Unknown,Unknown,3
+555,Employee 555,Sales,2351,3,Unknown,Unknown,3
+556,Employee 556,Research & Development,1702,1,Unknown,Unknown,4
+558,Employee 558,Sales,18041,21,Unknown,Unknown,3
+560,Employee 560,Research & Development,2886,3,Unknown,Unknown,4
+562,Employee 562,Research & Development,2097,9,Unknown,Unknown,3
+564,Employee 564,Research & Development,11935,10,Unknown,Unknown,3
+565,Employee 565,Research & Development,2546,6,Unknown,Unknown,3
+566,Employee 566,Human Resources,2564,1,Unknown,Unknown,3
+567,Employee 567,Sales,8412,10,Unknown,Unknown,3
+568,Employee 568,Sales,14118,32,Unknown,Unknown,3
+569,Employee 569,Research & Development,17046,28,Unknown,Unknown,3
+571,Employee 571,Research & Development,2564,12,Unknown,Unknown,3
+573,Employee 573,Sales,10266,22,Unknown,Unknown,3
+574,Employee 574,Research & Development,5070,20,Unknown,Unknown,3
+575,Employee 575,Research & Development,17861,26,Unknown,Unknown,3
+577,Employee 577,Research & Development,4230,6,Unknown,Unknown,3
+578,Employee 578,Research & Development,3780,19,Unknown,Unknown,3
+579,Employee 579,Research & Development,2768,14,Unknown,Unknown,3
+580,Employee 580,Sales,9071,15,Unknown,Unknown,3
+581,Employee 581,Research & Development,10648,13,Unknown,Unknown,4
+582,Employee 582,Research & Development,13610,15,Unknown,Unknown,3
+584,Employee 584,Research & Development,3408,8,Unknown,Unknown,3
+585,Employee 585,Sales,2983,4,Unknown,Unknown,3
+586,Employee 586,Research & Development,7632,10,Unknown,Unknown,3
+587,Employee 587,Research & Development,9824,12,Unknown,Unknown,3
+590,Employee 590,Human Resources,9950,11,Unknown,Unknown,3
+591,Employee 591,Research & Development,2093,8,Unknown,Unknown,3
+592,Employee 592,Sales,9980,10,Unknown,Unknown,3
+593,Employee 593,Research & Development,3894,4,Unknown,Unknown,3
+595,Employee 595,Sales,4051,14,Unknown,Unknown,3
+597,Employee 597,Sales,16835,37,Unknown,Unknown,4
+599,Employee 599,Sales,6230,16,Unknown,Unknown,3
+600,Employee 600,Sales,4717,15,Unknown,Unknown,3
+601,Employee 601,Research & Development,13237,22,Unknown,Unknown,3
+602,Employee 602,Research & Development,3755,8,Unknown,Unknown,3
+604,Employee 604,Sales,6582,10,Unknown,Unknown,3
+605,Employee 605,Research & Development,7406,10,Unknown,Unknown,4
+606,Employee 606,Sales,4805,9,Unknown,Unknown,3
+608,Employee 608,Human Resources,2741,8,Unknown,Unknown,3
+611,Employee 611,Research & Development,4262,8,Unknown,Unknown,3
+612,Employee 612,Research & Development,16184,10,Unknown,Unknown,3
+613,Employee 613,Sales,11557,10,Unknown,Unknown,4
+614,Employee 614,Sales,1878,0,Unknown,Unknown,3
+615,Employee 615,Sales,10932,20,Unknown,Unknown,3
+616,Employee 616,Research & Development,6811,10,Unknown,Unknown,3
+618,Employee 618,Sales,4306,8,Unknown,Unknown,3
+620,Employee 620,Sales,4859,5,Unknown,Unknown,3
+621,Employee 621,Sales,5337,10,Unknown,Unknown,3
+622,Employee 622,Research & Development,2340,1,Unknown,Unknown,3
+623,Employee 623,Research & Development,7491,12,Unknown,Unknown,3
+624,Employee 624,Research & Development,10527,28,Unknown,Unknown,3
+625,Employee 625,Sales,16595,22,Unknown,Unknown,3
+626,Employee 626,Sales,8834,9,Unknown,Unknown,3
+630,Employee 630,Research & Development,5577,18,Unknown,Unknown,3
+631,Employee 631,Sales,4707,6,Unknown,Unknown,3
+632,Employee 632,Sales,2400,3,Unknown,Unknown,3
+634,Employee 634,Research & Development,9824,18,Unknown,Unknown,3
+635,Employee 635,Research & Development,6447,8,Unknown,Unknown,3
+638,Employee 638,Research & Development,19502,31,Unknown,Unknown,3
+639,Employee 639,Research & Development,2725,6,Unknown,Unknown,3
+641,Employee 641,Sales,6272,6,Unknown,Unknown,4
+643,Employee 643,Research & Development,2127,1,Unknown,Unknown,4
+644,Employee 644,Human Resources,18200,32,Unknown,Unknown,3
+645,Employee 645,Sales,2096,7,Unknown,Unknown,3
+647,Employee 647,Research & Development,2886,6,Unknown,Unknown,3
+648,Employee 648,Sales,2033,1,Unknown,Unknown,3
+649,Employee 649,Research & Development,3622,6,Unknown,Unknown,3
+650,Employee 650,Sales,4233,9,Unknown,Unknown,3
+652,Employee 652,Research & Development,3681,9,Unknown,Unknown,3
+653,Employee 653,Sales,5460,13,Unknown,Unknown,4
+655,Employee 655,Research & Development,2187,6,Unknown,Unknown,3
+656,Employee 656,Sales,9602,17,Unknown,Unknown,3
+657,Employee 657,Research & Development,2836,1,Unknown,Unknown,3
+659,Employee 659,Research & Development,4089,10,Unknown,Unknown,3
+661,Employee 661,Research & Development,16627,21,Unknown,Unknown,3
+662,Employee 662,Research & Development,2619,8,Unknown,Unknown,3
+663,Employee 663,Research & Development,5679,10,Unknown,Unknown,3
+664,Employee 664,Research & Development,15402,21,Unknown,Unknown,3
+665,Employee 665,Human Resources,5985,10,Unknown,Unknown,3
+666,Employee 666,Sales,2579,8,Unknown,Unknown,3
+667,Employee 667,Sales,3041,5,Unknown,Unknown,3
+669,Employee 669,Sales,3447,3,Unknown,Unknown,3
+671,Employee 671,Research & Development,19513,26,Unknown,Unknown,3
+675,Employee 675,Research & Development,2773,3,Unknown,Unknown,4
+677,Employee 677,Sales,7104,6,Unknown,Unknown,3
+679,Employee 679,Research & Development,6322,6,Unknown,Unknown,3
+680,Employee 680,Research & Development,2083,1,Unknown,Unknown,4
+682,Employee 682,Sales,8381,18,Unknown,Unknown,4
+683,Employee 683,Research & Development,2691,10,Unknown,Unknown,3
+684,Employee 684,Sales,4286,5,Unknown,Unknown,3
+686,Employee 686,Research & Development,2659,3,Unknown,Unknown,3
+689,Employee 689,Research & Development,9434,10,Unknown,Unknown,3
+690,Employee 690,Sales,5561,6,Unknown,Unknown,3
+691,Employee 691,Research & Development,6646,17,Unknown,Unknown,3
+692,Employee 692,Research & Development,7725,15,Unknown,Unknown,4
+698,Employee 698,Human Resources,10725,16,Unknown,Unknown,3
+699,Employee 699,Research & Development,8847,13,Unknown,Unknown,3
+700,Employee 700,Research & Development,2045,5,Unknown,Unknown,3
+701,Employee 701,Research & Development,1009,1,Unknown,Unknown,3
+702,Employee 702,Research & Development,3348,10,Unknown,Unknown,3
+704,Employee 704,Research & Development,1281,1,Unknown,Unknown,3
+705,Employee 705,Research & Development,2819,5,Unknown,Unknown,3
+707,Employee 707,Sales,4851,4,Unknown,Unknown,4
+709,Employee 709,Sales,4028,8,Unknown,Unknown,4
+710,Employee 710,Research & Development,2720,10,Unknown,Unknown,3
+712,Employee 712,Sales,8120,12,Unknown,Unknown,3
+714,Employee 714,Sales,4647,6,Unknown,Unknown,4
+715,Employee 715,Research & Development,4680,4,Unknown,Unknown,3
+716,Employee 716,Research & Development,3221,20,Unknown,Unknown,3
+717,Employee 717,Research & Development,8621,9,Unknown,Unknown,3
+720,Employee 720,Sales,4577,4,Unknown,Unknown,3
+721,Employee 721,Research & Development,4553,20,Unknown,Unknown,3
+722,Employee 722,Sales,5396,10,Unknown,Unknown,3
+723,Employee 723,Sales,6796,18,Unknown,Unknown,3
+724,Employee 724,Research & Development,7625,10,Unknown,Unknown,3
+725,Employee 725,Research & Development,7412,9,Unknown,Unknown,3
+727,Employee 727,Research & Development,11159,10,Unknown,Unknown,3
+728,Employee 728,Sales,4960,20,Unknown,Unknown,3
+729,Employee 729,Sales,10475,20,Unknown,Unknown,4
+730,Employee 730,Research & Development,14814,32,Unknown,Unknown,3
+731,Employee 731,Human Resources,19141,23,Unknown,Unknown,3
+732,Employee 732,Sales,5405,10,Unknown,Unknown,3
+733,Employee 733,Research & Development,8793,9,Unknown,Unknown,4
+734,Employee 734,Human Resources,19189,22,Unknown,Unknown,3
+738,Employee 738,Sales,3875,4,Unknown,Unknown,3
+741,Employee 741,Research & Development,2216,10,Unknown,Unknown,3
+742,Employee 742,Research & Development,11713,10,Unknown,Unknown,3
+743,Employee 743,Research & Development,7861,10,Unknown,Unknown,3
+744,Employee 744,Research & Development,3708,9,Unknown,Unknown,3
+746,Employee 746,Sales,13770,28,Unknown,Unknown,3
+747,Employee 747,Sales,5304,10,Unknown,Unknown,4
+749,Employee 749,Sales,2642,1,Unknown,Unknown,3
+752,Employee 752,Research & Development,2759,7,Unknown,Unknown,3
+754,Employee 754,Sales,6804,7,Unknown,Unknown,3
+757,Employee 757,Research & Development,6142,10,Unknown,Unknown,3
+758,Employee 758,Research & Development,2500,5,Unknown,Unknown,3
+760,Employee 760,Human Resources,6389,12,Unknown,Unknown,3
+762,Employee 762,Research & Development,11103,30,Unknown,Unknown,3
+763,Employee 763,Research & Development,2342,5,Unknown,Unknown,4
+764,Employee 764,Research & Development,6811,9,Unknown,Unknown,3
+766,Employee 766,Sales,2297,2,Unknown,Unknown,3
+769,Employee 769,Research & Development,2450,19,Unknown,Unknown,3
+771,Employee 771,Research & Development,5093,16,Unknown,Unknown,3
+772,Employee 772,Research & Development,5309,10,Unknown,Unknown,3
+773,Employee 773,Research & Development,3057,6,Unknown,Unknown,3
+775,Employee 775,Research & Development,5121,7,Unknown,Unknown,3
+776,Employee 776,Sales,16856,34,Unknown,Unknown,3
+780,Employee 780,Research & Development,2686,10,Unknown,Unknown,3
+781,Employee 781,Sales,6180,6,Unknown,Unknown,4
+783,Employee 783,Sales,6632,9,Unknown,Unknown,3
+784,Employee 784,Research & Development,3505,2,Unknown,Unknown,3
+785,Employee 785,Sales,6397,8,Unknown,Unknown,3
+786,Employee 786,Sales,6274,6,Unknown,Unknown,4
+787,Employee 787,Research & Development,19859,24,Unknown,Unknown,3
+789,Employee 789,Sales,7587,10,Unknown,Unknown,3
+791,Employee 791,Research & Development,4258,5,Unknown,Unknown,3
+792,Employee 792,Research & Development,4364,5,Unknown,Unknown,3
+793,Employee 793,Research & Development,4335,11,Unknown,Unknown,3
+796,Employee 796,Sales,5326,6,Unknown,Unknown,3
+797,Employee 797,Research & Development,3280,10,Unknown,Unknown,3
+799,Employee 799,Research & Development,5485,9,Unknown,Unknown,3
+800,Employee 800,Sales,4342,5,Unknown,Unknown,3
+802,Employee 802,Research & Development,2782,6,Unknown,Unknown,3
+803,Employee 803,Research & Development,5980,17,Unknown,Unknown,3
+804,Employee 804,Research & Development,4381,6,Unknown,Unknown,3
+805,Employee 805,Sales,2572,3,Unknown,Unknown,3
+806,Employee 806,Research & Development,3833,7,Unknown,Unknown,4
+807,Employee 807,Research & Development,4244,8,Unknown,Unknown,4
+808,Employee 808,Sales,6500,6,Unknown,Unknown,3
+809,Employee 809,Research & Development,18430,24,Unknown,Unknown,3
+811,Employee 811,Research & Development,1601,1,Unknown,Unknown,4
+812,Employee 812,Research & Development,2694,1,Unknown,Unknown,3
+813,Employee 813,Research & Development,3149,9,Unknown,Unknown,4
+815,Employee 815,Research & Development,17639,30,Unknown,Unknown,3
+816,Employee 816,Research & Development,2319,1,Unknown,Unknown,3
+817,Employee 817,Research & Development,11691,14,Unknown,Unknown,3
+819,Employee 819,Sales,5324,6,Unknown,Unknown,3
+820,Employee 820,Research & Development,16752,26,Unknown,Unknown,3
+823,Employee 823,Research & Development,5228,10,Unknown,Unknown,3
+824,Employee 824,Research & Development,2700,10,Unknown,Unknown,4
+825,Employee 825,Research & Development,19246,40,Unknown,Unknown,3
+826,Employee 826,Research & Development,2506,7,Unknown,Unknown,3
+827,Employee 827,Research & Development,6062,8,Unknown,Unknown,3
+828,Employee 828,Research & Development,4382,5,Unknown,Unknown,3
+829,Employee 829,Human Resources,2143,8,Unknown,Unknown,3
+830,Employee 830,Research & Development,6162,14,Unknown,Unknown,3
+832,Employee 832,Research & Development,5094,10,Unknown,Unknown,3
+833,Employee 833,Research & Development,6877,12,Unknown,Unknown,4
+834,Employee 834,Research & Development,2274,1,Unknown,Unknown,3
+836,Employee 836,Research & Development,4434,10,Unknown,Unknown,3
+837,Employee 837,Research & Development,6288,13,Unknown,Unknown,3
+838,Employee 838,Research & Development,2553,6,Unknown,Unknown,3
+840,Employee 840,Sales,7654,9,Unknown,Unknown,3
+842,Employee 842,Sales,5160,12,Unknown,Unknown,3
+843,Employee 843,Research & Development,17159,22,Unknown,Unknown,4
+844,Employee 844,Research & Development,12808,9,Unknown,Unknown,3
+845,Employee 845,Research & Development,10221,17,Unknown,Unknown,4
+846,Employee 846,Sales,4779,8,Unknown,Unknown,4
+847,Employee 847,Human Resources,3737,4,Unknown,Unknown,3
+848,Employee 848,Research & Development,2366,8,Unknown,Unknown,3
+850,Employee 850,Research & Development,1706,0,Unknown,Unknown,3
+851,Employee 851,Sales,16307,29,Unknown,Unknown,3
+852,Employee 852,Research & Development,5933,10,Unknown,Unknown,3
+854,Employee 854,Research & Development,3424,6,Unknown,Unknown,3
+855,Employee 855,Sales,4037,9,Unknown,Unknown,4
+856,Employee 856,Research & Development,2559,6,Unknown,Unknown,3
+857,Employee 857,Sales,6201,18,Unknown,Unknown,3
+859,Employee 859,Sales,4403,8,Unknown,Unknown,3
+861,Employee 861,Research & Development,3761,10,Unknown,Unknown,3
+862,Employee 862,Sales,10934,35,Unknown,Unknown,3
+864,Employee 864,Sales,10761,18,Unknown,Unknown,3
+865,Employee 865,Research & Development,5175,9,Unknown,Unknown,3
+867,Employee 867,Research & Development,13826,31,Unknown,Unknown,4
+868,Employee 868,Sales,6334,9,Unknown,Unknown,3
+869,Employee 869,Human Resources,4936,6,Unknown,Unknown,3
+872,Employee 872,Research & Development,4775,4,Unknown,Unknown,4
+874,Employee 874,Research & Development,2818,10,Unknown,Unknown,4
+875,Employee 875,Research & Development,2515,8,Unknown,Unknown,3
+878,Employee 878,Human Resources,2342,6,Unknown,Unknown,4
+879,Employee 879,Sales,4194,5,Unknown,Unknown,3
+880,Employee 880,Research & Development,10685,17,Unknown,Unknown,4
+881,Employee 881,Research & Development,2022,10,Unknown,Unknown,3
+882,Employee 882,Research & Development,2314,4,Unknown,Unknown,3
+885,Employee 885,Sales,4256,5,Unknown,Unknown,3
+887,Employee 887,Research & Development,3580,7,Unknown,Unknown,3
+888,Employee 888,Research & Development,3162,6,Unknown,Unknown,3
+889,Employee 889,Sales,6524,10,Unknown,Unknown,3
+893,Employee 893,Sales,2899,3,Unknown,Unknown,3
+894,Employee 894,Research & Development,5231,17,Unknown,Unknown,3
+895,Employee 895,Research & Development,2356,8,Unknown,Unknown,3
+896,Employee 896,Sales,2800,5,Unknown,Unknown,3
+897,Employee 897,Sales,11836,28,Unknown,Unknown,3
+899,Employee 899,Research & Development,10903,16,Unknown,Unknown,3
+900,Employee 900,Sales,2973,10,Unknown,Unknown,3
+901,Employee 901,Research & Development,14275,33,Unknown,Unknown,3
+902,Employee 902,Research & Development,5562,12,Unknown,Unknown,3
+903,Employee 903,Sales,4537,8,Unknown,Unknown,4
+904,Employee 904,Sales,7642,10,Unknown,Unknown,3
+905,Employee 905,Research & Development,17924,31,Unknown,Unknown,3
+909,Employee 909,Human Resources,5204,13,Unknown,Unknown,3
+910,Employee 910,Human Resources,2277,7,Unknown,Unknown,3
+911,Employee 911,Research & Development,2795,1,Unknown,Unknown,4
+912,Employee 912,Research & Development,2532,8,Unknown,Unknown,3
+913,Employee 913,Research & Development,2559,8,Unknown,Unknown,3
+916,Employee 916,Sales,4908,4,Unknown,Unknown,3
+918,Employee 918,Research & Development,2380,3,Unknown,Unknown,3
+920,Employee 920,Research & Development,4765,4,Unknown,Unknown,4
+922,Employee 922,Sales,2044,2,Unknown,Unknown,3
+923,Employee 923,Research & Development,2693,1,Unknown,Unknown,3
+924,Employee 924,Research & Development,6586,17,Unknown,Unknown,3
+925,Employee 925,Sales,3294,3,Unknown,Unknown,3
+926,Employee 926,Research & Development,4171,4,Unknown,Unknown,3
+927,Employee 927,Research & Development,2778,10,Unknown,Unknown,3
+930,Employee 930,Research & Development,2377,6,Unknown,Unknown,3
+932,Employee 932,Research & Development,2404,8,Unknown,Unknown,4
+933,Employee 933,Research & Development,2318,1,Unknown,Unknown,3
+934,Employee 934,Research & Development,2008,1,Unknown,Unknown,3
+936,Employee 936,Sales,6244,10,Unknown,Unknown,3
+939,Employee 939,Research & Development,2799,6,Unknown,Unknown,3
+940,Employee 940,Research & Development,10552,24,Unknown,Unknown,3
+941,Employee 941,Sales,2329,13,Unknown,Unknown,3
+942,Employee 942,Research & Development,4014,10,Unknown,Unknown,4
+944,Employee 944,Research & Development,7403,29,Unknown,Unknown,3
+945,Employee 945,Research & Development,2259,13,Unknown,Unknown,3
+947,Employee 947,Sales,6932,9,Unknown,Unknown,3
+949,Employee 949,Research & Development,4678,8,Unknown,Unknown,3
+950,Employee 950,Research & Development,13582,15,Unknown,Unknown,3
+951,Employee 951,Research & Development,2332,5,Unknown,Unknown,4
+952,Employee 952,Sales,2413,1,Unknown,Unknown,3
+954,Employee 954,Sales,9705,11,Unknown,Unknown,3
+956,Employee 956,Sales,4294,7,Unknown,Unknown,3
+957,Employee 957,Research & Development,4721,20,Unknown,Unknown,3
+958,Employee 958,Research & Development,2519,16,Unknown,Unknown,4
+959,Employee 959,Sales,2121,1,Unknown,Unknown,3
+960,Employee 960,Research & Development,2973,1,Unknown,Unknown,3
+961,Employee 961,Research & Development,5855,10,Unknown,Unknown,3
+964,Employee 964,Research & Development,3617,3,Unknown,Unknown,3
+966,Employee 966,Research & Development,6725,8,Unknown,Unknown,3
+967,Employee 967,Sales,10325,16,Unknown,Unknown,3
+969,Employee 969,Research & Development,6949,6,Unknown,Unknown,3
+970,Employee 970,Sales,10609,17,Unknown,Unknown,3
+972,Employee 972,Research & Development,4447,9,Unknown,Unknown,3
+974,Employee 974,Sales,2157,3,Unknown,Unknown,3
+975,Employee 975,Sales,4601,5,Unknown,Unknown,3
+976,Employee 976,Research & Development,17099,26,Unknown,Unknown,3
+977,Employee 977,Research & Development,2479,7,Unknown,Unknown,4
+981,Employee 981,Sales,14852,22,Unknown,Unknown,3
+982,Employee 982,Sales,7264,10,Unknown,Unknown,3
+983,Employee 983,Sales,5666,6,Unknown,Unknown,3
+984,Employee 984,Sales,7823,12,Unknown,Unknown,3
+985,Employee 985,Sales,7880,9,Unknown,Unknown,3
+986,Employee 986,Sales,13194,22,Unknown,Unknown,3
+987,Employee 987,Research & Development,5067,20,Unknown,Unknown,3
+990,Employee 990,Sales,5079,12,Unknown,Unknown,3
+991,Employee 991,Research & Development,2321,4,Unknown,Unknown,4
+992,Employee 992,Sales,17444,10,Unknown,Unknown,3
+994,Employee 994,Research & Development,2404,3,Unknown,Unknown,4
+995,Employee 995,Research & Development,3452,5,Unknown,Unknown,3
+996,Employee 996,Research & Development,2270,8,Unknown,Unknown,3
+997,Employee 997,Research & Development,17399,32,Unknown,Unknown,4
+998,Employee 998,Research & Development,5488,6,Unknown,Unknown,3
+999,Employee 999,Research & Development,19419,21,Unknown,Unknown,3
+1001,Employee 1001,Research & Development,2811,4,Unknown,Unknown,3
+1002,Employee 1002,Research & Development,3633,9,Unknown,Unknown,3
+1003,Employee 1003,Sales,4163,9,Unknown,Unknown,3
+1004,Employee 1004,Research & Development,2132,7,Unknown,Unknown,3
+1005,Employee 1005,Research & Development,13973,22,Unknown,Unknown,3
+1006,Employee 1006,Research & Development,2684,3,Unknown,Unknown,3
+1007,Employee 1007,Research & Development,10845,13,Unknown,Unknown,3
+1009,Employee 1009,Research & Development,4377,5,Unknown,Unknown,3
+1010,Employee 1010,Research & Development,3743,5,Unknown,Unknown,4
+1011,Employee 1011,Research & Development,4148,4,Unknown,Unknown,3
+1012,Employee 1012,Research & Development,1051,0,Unknown,Unknown,3
+1013,Employee 1013,Research & Development,10739,22,Unknown,Unknown,3
+1014,Employee 1014,Research & Development,10388,16,Unknown,Unknown,3
+1015,Employee 1015,Research & Development,11416,9,Unknown,Unknown,3
+1016,Employee 1016,Research & Development,2600,1,Unknown,Unknown,3
+1017,Employee 1017,Research & Development,2422,4,Unknown,Unknown,3
+1018,Employee 1018,Research & Development,5472,8,Unknown,Unknown,3
+1019,Employee 1019,Research & Development,2451,4,Unknown,Unknown,3
+1022,Employee 1022,Research & Development,4240,19,Unknown,Unknown,3
+1024,Employee 1024,Research & Development,10999,27,Unknown,Unknown,3
+1025,Employee 1025,Research & Development,5003,8,Unknown,Unknown,3
+1026,Employee 1026,Research & Development,12742,21,Unknown,Unknown,3
+1027,Employee 1027,Research & Development,4227,4,Unknown,Unknown,3
+1028,Employee 1028,Research & Development,3917,3,Unknown,Unknown,4
+1029,Employee 1029,Sales,18303,21,Unknown,Unknown,3
+1030,Employee 1030,Research & Development,2380,8,Unknown,Unknown,3
+1032,Employee 1032,Research & Development,13726,30,Unknown,Unknown,3
+1033,Employee 1033,Research & Development,4777,15,Unknown,Unknown,3
+1034,Employee 1034,Research & Development,6385,17,Unknown,Unknown,3
+1035,Employee 1035,Research & Development,19973,21,Unknown,Unknown,4
+1036,Employee 1036,Sales,6861,19,Unknown,Unknown,3
+1037,Employee 1037,Sales,4969,7,Unknown,Unknown,3
+1038,Employee 1038,Sales,19845,33,Unknown,Unknown,3
+1039,Employee 1039,Sales,13320,23,Unknown,Unknown,3
+1040,Employee 1040,Sales,6347,19,Unknown,Unknown,3
+1042,Employee 1042,Research & Development,2743,18,Unknown,Unknown,3
+1043,Employee 1043,Research & Development,10880,21,Unknown,Unknown,3
+1044,Employee 1044,Sales,2342,3,Unknown,Unknown,3
+1045,Employee 1045,Sales,17650,26,Unknown,Unknown,3
+1046,Employee 1046,Research & Development,4025,10,Unknown,Unknown,3
+1047,Employee 1047,Sales,9725,16,Unknown,Unknown,3
+1048,Employee 1048,Sales,11904,14,Unknown,Unknown,3
+1049,Employee 1049,Human Resources,2177,6,Unknown,Unknown,3
+1050,Employee 1050,Sales,7525,30,Unknown,Unknown,3
+1052,Employee 1052,Research & Development,4834,9,Unknown,Unknown,3
+1053,Employee 1053,Research & Development,2042,6,Unknown,Unknown,3
+1055,Employee 1055,Sales,2220,1,Unknown,Unknown,3
+1056,Employee 1056,Sales,1052,1,Unknown,Unknown,4
+1060,Employee 1060,Research & Development,2821,8,Unknown,Unknown,3
+1061,Employee 1061,Research & Development,19237,29,Unknown,Unknown,3
+1062,Employee 1062,Research & Development,4107,8,Unknown,Unknown,3
+1066,Employee 1066,Sales,8396,8,Unknown,Unknown,3
+1068,Employee 1068,Research & Development,2007,5,Unknown,Unknown,3
+1069,Employee 1069,Research & Development,19627,23,Unknown,Unknown,3
+1070,Employee 1070,Sales,10686,13,Unknown,Unknown,3
+1071,Employee 1071,Research & Development,2942,18,Unknown,Unknown,3
+1073,Employee 1073,Research & Development,8858,15,Unknown,Unknown,3
+1074,Employee 1074,Research & Development,16756,31,Unknown,Unknown,3
+1076,Employee 1076,Sales,10798,18,Unknown,Unknown,3
+1077,Employee 1077,Sales,2323,2,Unknown,Unknown,3
+1079,Employee 1079,Research & Development,1416,1,Unknown,Unknown,3
+1080,Employee 1080,Research & Development,4615,19,Unknown,Unknown,4
+1081,Employee 1081,Research & Development,2461,18,Unknown,Unknown,3
+1082,Employee 1082,Research & Development,8722,10,Unknown,Unknown,3
+1083,Employee 1083,Research & Development,3955,6,Unknown,Unknown,3
+1084,Employee 1084,Research & Development,9957,7,Unknown,Unknown,3
+1085,Employee 1085,Research & Development,3376,10,Unknown,Unknown,3
+1088,Employee 1088,Research & Development,8823,20,Unknown,Unknown,3
+1092,Employee 1092,Research & Development,10322,14,Unknown,Unknown,4
+1094,Employee 1094,Research & Development,4621,3,Unknown,Unknown,3
+1096,Employee 1096,Research & Development,10976,23,Unknown,Unknown,3
+1097,Employee 1097,Research & Development,3660,10,Unknown,Unknown,3
+1098,Employee 1098,Human Resources,10482,24,Unknown,Unknown,3
+1099,Employee 1099,Research & Development,7119,9,Unknown,Unknown,3
+1100,Employee 1100,Sales,9582,9,Unknown,Unknown,4
+1101,Employee 1101,Research & Development,4508,14,Unknown,Unknown,4
+1102,Employee 1102,Research & Development,2207,4,Unknown,Unknown,3
+1103,Employee 1103,Research & Development,7756,7,Unknown,Unknown,3
+1105,Employee 1105,Sales,6694,8,Unknown,Unknown,3
+1106,Employee 1106,Research & Development,3691,7,Unknown,Unknown,3
+1107,Employee 1107,Research & Development,2377,1,Unknown,Unknown,4
+1108,Employee 1108,Research & Development,2313,5,Unknown,Unknown,4
+1109,Employee 1109,Research & Development,17665,23,Unknown,Unknown,3
+1111,Employee 1111,Research & Development,2596,1,Unknown,Unknown,3
+1113,Employee 1113,Sales,4728,5,Unknown,Unknown,3
+1114,Employee 1114,Sales,4302,4,Unknown,Unknown,3
+1115,Employee 1115,Research & Development,2979,6,Unknown,Unknown,3
+1116,Employee 1116,Research & Development,16885,27,Unknown,Unknown,4
+1117,Employee 1117,Sales,5593,15,Unknown,Unknown,3
+1118,Employee 1118,Research & Development,10445,18,Unknown,Unknown,3
+1119,Employee 1119,Sales,8740,9,Unknown,Unknown,3
+1120,Employee 1120,Research & Development,2514,11,Unknown,Unknown,4
+1121,Employee 1121,Research & Development,7655,10,Unknown,Unknown,3
+1124,Employee 1124,Sales,17465,23,Unknown,Unknown,3
+1125,Employee 1125,Sales,7351,10,Unknown,Unknown,3
+1126,Employee 1126,Research & Development,10820,18,Unknown,Unknown,3
+1127,Employee 1127,Research & Development,12169,21,Unknown,Unknown,3
+1128,Employee 1128,Research & Development,19626,21,Unknown,Unknown,3
+1131,Employee 1131,Research & Development,2070,2,Unknown,Unknown,3
+1132,Employee 1132,Research & Development,6782,9,Unknown,Unknown,3
+1133,Employee 1133,Research & Development,7779,18,Unknown,Unknown,4
+1135,Employee 1135,Sales,2791,3,Unknown,Unknown,3
+1136,Employee 1136,Research & Development,3201,6,Unknown,Unknown,3
+1137,Employee 1137,Sales,4968,5,Unknown,Unknown,3
+1138,Employee 1138,Sales,13120,22,Unknown,Unknown,3
+1140,Employee 1140,Research & Development,4033,5,Unknown,Unknown,3
+1143,Employee 1143,Research & Development,3291,8,Unknown,Unknown,3
+1148,Employee 1148,Research & Development,4272,16,Unknown,Unknown,3
+1150,Employee 1150,Research & Development,5056,10,Unknown,Unknown,3
+1152,Employee 1152,Human Resources,2844,7,Unknown,Unknown,3
+1154,Employee 1154,Research & Development,2703,3,Unknown,Unknown,3
+1156,Employee 1156,Research & Development,1904,0,Unknown,Unknown,3
+1157,Employee 1157,Sales,8224,6,Unknown,Unknown,3
+1158,Employee 1158,Research & Development,4766,6,Unknown,Unknown,3
+1160,Employee 1160,Research & Development,2610,2,Unknown,Unknown,3
+1161,Employee 1161,Research & Development,5731,9,Unknown,Unknown,3
+1162,Employee 1162,Research & Development,2539,4,Unknown,Unknown,3
+1163,Employee 1163,Sales,5714,6,Unknown,Unknown,4
+1164,Employee 1164,Human Resources,4323,6,Unknown,Unknown,3
+1165,Employee 1165,Sales,7336,11,Unknown,Unknown,3
+1166,Employee 1166,Research & Development,13499,20,Unknown,Unknown,3
+1167,Employee 1167,Sales,13758,22,Unknown,Unknown,3
+1171,Employee 1171,Sales,5155,9,Unknown,Unknown,3
+1172,Employee 1172,Research & Development,2258,10,Unknown,Unknown,3
+1173,Employee 1173,Research & Development,3597,6,Unknown,Unknown,4
+1175,Employee 1175,Research & Development,2515,1,Unknown,Unknown,3
+1177,Employee 1177,Research & Development,4420,8,Unknown,Unknown,4
+1179,Employee 1179,Sales,6578,10,Unknown,Unknown,3
+1180,Employee 1180,Research & Development,4422,16,Unknown,Unknown,3
+1182,Employee 1182,Research & Development,10274,15,Unknown,Unknown,3
+1184,Employee 1184,Research & Development,5343,14,Unknown,Unknown,4
+1185,Employee 1185,Research & Development,2376,2,Unknown,Unknown,3
+1188,Employee 1188,Sales,5346,7,Unknown,Unknown,3
+1190,Employee 1190,Sales,2827,1,Unknown,Unknown,3
+1191,Employee 1191,Research & Development,19943,28,Unknown,Unknown,3
+1192,Employee 1192,Research & Development,3131,10,Unknown,Unknown,3
+1193,Employee 1193,Research & Development,2552,1,Unknown,Unknown,4
+1195,Employee 1195,Research & Development,4477,7,Unknown,Unknown,3
+1196,Employee 1196,Research & Development,6474,14,Unknown,Unknown,3
+1198,Employee 1198,Research & Development,3033,2,Unknown,Unknown,3
+1200,Employee 1200,Research & Development,2936,6,Unknown,Unknown,3
+1201,Employee 1201,Research & Development,18606,26,Unknown,Unknown,3
+1202,Employee 1202,Research & Development,2168,6,Unknown,Unknown,3
+1203,Employee 1203,Research & Development,2853,1,Unknown,Unknown,3
+1204,Employee 1204,Sales,17048,28,Unknown,Unknown,4
+1206,Employee 1206,Research & Development,2290,6,Unknown,Unknown,3
+1207,Employee 1207,Human Resources,3600,5,Unknown,Unknown,3
+1210,Employee 1210,Research & Development,2107,5,Unknown,Unknown,3
+1211,Employee 1211,Sales,4115,8,Unknown,Unknown,3
+1212,Employee 1212,Sales,4327,5,Unknown,Unknown,3
+1215,Employee 1215,Research & Development,17856,32,Unknown,Unknown,4
+1216,Employee 1216,Research & Development,3196,6,Unknown,Unknown,3
+1217,Employee 1217,Research & Development,19081,25,Unknown,Unknown,3
+1218,Employee 1218,Sales,8966,15,Unknown,Unknown,3
+1219,Employee 1219,Research & Development,2210,1,Unknown,Unknown,3
+1220,Employee 1220,Sales,4539,10,Unknown,Unknown,3
+1221,Employee 1221,Research & Development,2741,7,Unknown,Unknown,3
+1224,Employee 1224,Research & Development,3491,10,Unknown,Unknown,3
+1225,Employee 1225,Research & Development,4541,20,Unknown,Unknown,4
+1226,Employee 1226,Sales,2678,2,Unknown,Unknown,3
+1228,Employee 1228,Research & Development,7379,12,Unknown,Unknown,3
+1231,Employee 1231,Human Resources,6272,10,Unknown,Unknown,3
+1233,Employee 1233,Sales,5220,12,Unknown,Unknown,3
+1234,Employee 1234,Research & Development,2743,2,Unknown,Unknown,4
+1235,Employee 1235,Research & Development,4998,10,Unknown,Unknown,3
+1237,Employee 1237,Research & Development,10252,17,Unknown,Unknown,4
+1238,Employee 1238,Research & Development,2781,15,Unknown,Unknown,3
+1239,Employee 1239,Sales,6852,7,Unknown,Unknown,3
+1240,Employee 1240,Sales,4950,5,Unknown,Unknown,3
+1241,Employee 1241,Research & Development,3579,12,Unknown,Unknown,4
+1242,Employee 1242,Research & Development,13191,20,Unknown,Unknown,3
+1243,Employee 1243,Sales,10377,16,Unknown,Unknown,3
+1244,Employee 1244,Research & Development,2235,9,Unknown,Unknown,3
+1245,Employee 1245,Research & Development,10502,33,Unknown,Unknown,3
+1246,Employee 1246,Research & Development,2011,10,Unknown,Unknown,3
+1248,Employee 1248,Research & Development,1859,1,Unknown,Unknown,4
+1249,Employee 1249,Research & Development,3760,3,Unknown,Unknown,3
+1250,Employee 1250,Research & Development,17779,36,Unknown,Unknown,3
+1251,Employee 1251,Research & Development,6833,6,Unknown,Unknown,3
+1252,Employee 1252,Research & Development,6812,10,Unknown,Unknown,3
+1254,Employee 1254,Sales,5171,13,Unknown,Unknown,3
+1255,Employee 1255,Research & Development,19740,25,Unknown,Unknown,3
+1256,Employee 1256,Research & Development,18711,23,Unknown,Unknown,3
+1257,Employee 1257,Research & Development,3692,12,Unknown,Unknown,3
+1258,Employee 1258,Research & Development,2559,7,Unknown,Unknown,3
+1259,Employee 1259,Research & Development,2517,5,Unknown,Unknown,3
+1260,Employee 1260,Research & Development,6623,6,Unknown,Unknown,3
+1263,Employee 1263,Research & Development,18265,25,Unknown,Unknown,3
+1264,Employee 1264,Research & Development,16124,9,Unknown,Unknown,3
+1265,Employee 1265,Research & Development,2585,2,Unknown,Unknown,3
+1267,Employee 1267,Sales,18213,26,Unknown,Unknown,3
+1268,Employee 1268,Sales,8380,10,Unknown,Unknown,3
+1269,Employee 1269,Research & Development,2994,1,Unknown,Unknown,3
+1270,Employee 1270,Research & Development,1223,1,Unknown,Unknown,4
+1273,Employee 1273,Sales,1118,1,Unknown,Unknown,3
+1275,Employee 1275,Research & Development,2875,8,Unknown,Unknown,4
+1277,Employee 1277,Sales,18824,26,Unknown,Unknown,3
+1278,Employee 1278,Research & Development,13577,34,Unknown,Unknown,3
+1279,Employee 1279,Research & Development,2625,2,Unknown,Unknown,4
+1280,Employee 1280,Sales,18789,26,Unknown,Unknown,3
+1281,Employee 1281,Sales,4538,4,Unknown,Unknown,3
+1282,Employee 1282,Sales,19847,31,Unknown,Unknown,4
+1283,Employee 1283,Research & Development,10512,25,Unknown,Unknown,3
+1285,Employee 1285,Research & Development,4444,15,Unknown,Unknown,3
+1286,Employee 1286,Research & Development,2154,5,Unknown,Unknown,3
+1288,Employee 1288,Research & Development,19190,26,Unknown,Unknown,3
+1289,Employee 1289,Human Resources,4490,14,Unknown,Unknown,3
+1291,Employee 1291,Research & Development,3506,4,Unknown,Unknown,3
+1292,Employee 1292,Research & Development,2372,18,Unknown,Unknown,3
+1293,Employee 1293,Sales,10231,23,Unknown,Unknown,3
+1294,Employee 1294,Research & Development,5410,18,Unknown,Unknown,3
+1295,Employee 1295,Research & Development,7978,10,Unknown,Unknown,3
+1296,Employee 1296,Research & Development,3867,2,Unknown,Unknown,3
+1297,Employee 1297,Research & Development,2838,8,Unknown,Unknown,3
+1298,Employee 1298,Research & Development,4695,10,Unknown,Unknown,3
+1299,Employee 1299,Research & Development,3339,10,Unknown,Unknown,3
+1301,Employee 1301,Research & Development,2080,5,Unknown,Unknown,3
+1303,Employee 1303,Research & Development,2096,2,Unknown,Unknown,3
+1304,Employee 1304,Sales,6209,10,Unknown,Unknown,3
+1306,Employee 1306,Research & Development,18061,22,Unknown,Unknown,4
+1307,Employee 1307,Research & Development,17123,21,Unknown,Unknown,3
+1308,Employee 1308,Research & Development,2372,2,Unknown,Unknown,3
+1309,Employee 1309,Research & Development,4883,10,Unknown,Unknown,3
+1310,Employee 1310,Research & Development,3904,6,Unknown,Unknown,3
+1311,Employee 1311,Research & Development,4627,10,Unknown,Unknown,3
+1312,Employee 1312,Research & Development,7094,10,Unknown,Unknown,3
+1314,Employee 1314,Human Resources,3423,10,Unknown,Unknown,3
+1315,Employee 1315,Research & Development,6674,10,Unknown,Unknown,3
+1317,Employee 1317,Research & Development,16880,25,Unknown,Unknown,3
+1318,Employee 1318,Sales,9094,9,Unknown,Unknown,3
+1319,Employee 1319,Sales,8446,10,Unknown,Unknown,3
+1321,Employee 1321,Research & Development,11916,9,Unknown,Unknown,4
+1322,Employee 1322,Research & Development,4534,9,Unknown,Unknown,3
+1324,Employee 1324,Sales,9852,10,Unknown,Unknown,3
+1329,Employee 1329,Sales,6151,19,Unknown,Unknown,3
+1331,Employee 1331,Sales,2302,3,Unknown,Unknown,3
+1333,Employee 1333,Research & Development,2362,10,Unknown,Unknown,3
+1334,Employee 1334,Research & Development,17861,21,Unknown,Unknown,3
+1336,Employee 1336,Research & Development,19187,23,Unknown,Unknown,3
+1338,Employee 1338,Human Resources,19717,36,Unknown,Unknown,3
+1340,Employee 1340,Research & Development,3544,6,Unknown,Unknown,3
+1344,Employee 1344,Research & Development,8500,10,Unknown,Unknown,3
+1346,Employee 1346,Research & Development,4661,9,Unknown,Unknown,3
+1349,Employee 1349,Sales,4103,10,Unknown,Unknown,3
+1350,Employee 1350,Research & Development,4249,9,Unknown,Unknown,3
+1352,Employee 1352,Human Resources,14026,33,Unknown,Unknown,3
+1355,Employee 1355,Sales,6893,11,Unknown,Unknown,3
+1356,Employee 1356,Sales,6125,10,Unknown,Unknown,3
+1358,Employee 1358,Research & Development,3669,7,Unknown,Unknown,3
+1360,Employee 1360,Research & Development,10008,31,Unknown,Unknown,3
+1361,Employee 1361,Research & Development,2387,7,Unknown,Unknown,4
+1362,Employee 1362,Sales,4639,17,Unknown,Unknown,3
+1363,Employee 1363,Research & Development,7898,11,Unknown,Unknown,3
+1364,Employee 1364,Sales,2534,5,Unknown,Unknown,3
+1367,Employee 1367,Research & Development,13142,29,Unknown,Unknown,3
+1368,Employee 1368,Research & Development,1611,0,Unknown,Unknown,3
+1369,Employee 1369,Research & Development,5363,10,Unknown,Unknown,3
+1371,Employee 1371,Sales,5071,8,Unknown,Unknown,4
+1372,Employee 1372,Sales,13695,24,Unknown,Unknown,3
+1373,Employee 1373,Research & Development,13402,33,Unknown,Unknown,3
+1374,Employee 1374,Research & Development,2029,5,Unknown,Unknown,4
+1375,Employee 1375,Research & Development,6377,15,Unknown,Unknown,4
+1377,Employee 1377,Research & Development,5429,10,Unknown,Unknown,3
+1379,Employee 1379,Sales,2785,3,Unknown,Unknown,3
+1380,Employee 1380,Sales,4614,5,Unknown,Unknown,3
+1382,Employee 1382,Research & Development,2610,4,Unknown,Unknown,3
+1383,Employee 1383,Research & Development,6687,14,Unknown,Unknown,3
+1387,Employee 1387,Sales,4724,5,Unknown,Unknown,3
+1389,Employee 1389,Research & Development,6179,10,Unknown,Unknown,3
+1390,Employee 1390,Sales,6120,8,Unknown,Unknown,3
+1391,Employee 1391,Sales,10596,14,Unknown,Unknown,3
+1392,Employee 1392,Research & Development,5467,12,Unknown,Unknown,3
+1394,Employee 1394,Research & Development,2996,8,Unknown,Unknown,3
+1395,Employee 1395,Sales,9998,8,Unknown,Unknown,3
+1396,Employee 1396,Sales,4078,4,Unknown,Unknown,3
+1397,Employee 1397,Research & Development,10920,13,Unknown,Unknown,4
+1399,Employee 1399,Sales,6232,6,Unknown,Unknown,3
+1401,Employee 1401,Research & Development,13247,24,Unknown,Unknown,3
+1402,Employee 1402,Research & Development,4081,20,Unknown,Unknown,3
+1403,Employee 1403,Sales,5769,6,Unknown,Unknown,3
+1405,Employee 1405,Research & Development,2394,8,Unknown,Unknown,3
+1407,Employee 1407,Research & Development,3904,5,Unknown,Unknown,3
+1408,Employee 1408,Human Resources,16799,21,Unknown,Unknown,3
+1409,Employee 1409,Research & Development,2950,12,Unknown,Unknown,3
+1411,Employee 1411,Research & Development,3629,8,Unknown,Unknown,3
+1412,Employee 1412,Research & Development,9362,10,Unknown,Unknown,3
+1415,Employee 1415,Research & Development,3229,7,Unknown,Unknown,3
+1417,Employee 1417,Research & Development,3578,8,Unknown,Unknown,3
+1419,Employee 1419,Human Resources,7988,10,Unknown,Unknown,3
+1420,Employee 1420,Research & Development,4284,20,Unknown,Unknown,4
+1421,Employee 1421,Research & Development,7553,9,Unknown,Unknown,3
+1422,Employee 1422,Research & Development,17328,29,Unknown,Unknown,3
+1423,Employee 1423,Research & Development,19701,32,Unknown,Unknown,4
+1424,Employee 1424,Research & Development,14732,31,Unknown,Unknown,3
+1425,Employee 1425,Sales,9278,15,Unknown,Unknown,3
+1427,Employee 1427,Sales,1359,1,Unknown,Unknown,3
+1428,Employee 1428,Sales,4779,8,Unknown,Unknown,3
+1430,Employee 1430,Research & Development,16422,9,Unknown,Unknown,3
+1431,Employee 1431,Research & Development,2996,10,Unknown,Unknown,3
+1433,Employee 1433,Research & Development,1261,1,Unknown,Unknown,3
+1434,Employee 1434,Research & Development,2099,6,Unknown,Unknown,3
+1435,Employee 1435,Research & Development,5810,10,Unknown,Unknown,3
+1436,Employee 1436,Sales,5647,11,Unknown,Unknown,3
+1438,Employee 1438,Research & Development,3420,17,Unknown,Unknown,3
+1439,Employee 1439,Sales,4400,6,Unknown,Unknown,3
+1440,Employee 1440,Research & Development,3500,7,Unknown,Unknown,3
+1441,Employee 1441,Research & Development,2066,5,Unknown,Unknown,4
+1443,Employee 1443,Research & Development,17169,26,Unknown,Unknown,3
+1445,Employee 1445,Sales,4162,5,Unknown,Unknown,3
+1446,Employee 1446,Sales,9204,7,Unknown,Unknown,3
+1447,Employee 1447,Research & Development,3294,7,Unknown,Unknown,3
+1448,Employee 1448,Research & Development,2127,7,Unknown,Unknown,3
+1449,Employee 1449,Research & Development,3975,11,Unknown,Unknown,3
+1453,Employee 1453,Sales,10793,13,Unknown,Unknown,3
+1457,Employee 1457,Sales,10096,28,Unknown,Unknown,3
+1458,Employee 1458,Research & Development,3646,11,Unknown,Unknown,4
+1459,Employee 1459,Research & Development,7446,10,Unknown,Unknown,3
+1460,Employee 1460,Research & Development,10851,24,Unknown,Unknown,3
+1461,Employee 1461,Human Resources,2109,8,Unknown,Unknown,3
+1464,Employee 1464,Research & Development,3722,7,Unknown,Unknown,3
+1465,Employee 1465,Research & Development,9380,10,Unknown,Unknown,3
+1466,Employee 1466,Sales,5486,15,Unknown,Unknown,3
+1467,Employee 1467,Human Resources,2742,2,Unknown,Unknown,3
+1468,Employee 1468,Research & Development,13757,16,Unknown,Unknown,3
+1469,Employee 1469,Sales,8463,6,Unknown,Unknown,3
+1471,Employee 1471,Research & Development,3162,7,Unknown,Unknown,3
+1472,Employee 1472,Research & Development,16598,35,Unknown,Unknown,3
+1473,Employee 1473,Research & Development,6651,20,Unknown,Unknown,3
+1474,Employee 1474,Research & Development,2345,8,Unknown,Unknown,3
+1475,Employee 1475,Research & Development,3420,6,Unknown,Unknown,3
+1477,Employee 1477,Sales,4373,5,Unknown,Unknown,3
+1478,Employee 1478,Sales,4759,15,Unknown,Unknown,3
+1479,Employee 1479,Sales,5301,4,Unknown,Unknown,3
+1480,Employee 1480,Research & Development,3673,12,Unknown,Unknown,3
+1481,Employee 1481,Sales,4768,11,Unknown,Unknown,3
+1482,Employee 1482,Research & Development,1274,1,Unknown,Unknown,3
+1483,Employee 1483,Research & Development,4900,13,Unknown,Unknown,4
+1484,Employee 1484,Research & Development,10466,29,Unknown,Unknown,3
+1485,Employee 1485,Research & Development,17007,16,Unknown,Unknown,3
+1486,Employee 1486,Sales,2909,5,Unknown,Unknown,3
+1487,Employee 1487,Sales,5765,7,Unknown,Unknown,3
+1489,Employee 1489,Sales,4599,16,Unknown,Unknown,4
+1492,Employee 1492,Sales,2404,1,Unknown,Unknown,3
+1494,Employee 1494,Research & Development,3172,4,Unknown,Unknown,3
+1495,Employee 1495,Sales,2033,1,Unknown,Unknown,3
+1496,Employee 1496,Research & Development,10209,16,Unknown,Unknown,3
+1497,Employee 1497,Sales,8620,10,Unknown,Unknown,3
+1499,Employee 1499,Human Resources,2064,6,Unknown,Unknown,4
+1501,Employee 1501,Research & Development,4035,4,Unknown,Unknown,3
+1502,Employee 1502,Research & Development,3838,8,Unknown,Unknown,3
+1503,Employee 1503,Sales,4591,11,Unknown,Unknown,3
+1504,Employee 1504,Research & Development,2561,8,Unknown,Unknown,3
+1506,Employee 1506,Research & Development,1563,1,Unknown,Unknown,3
+1507,Employee 1507,Sales,4898,5,Unknown,Unknown,3
+1509,Employee 1509,Research & Development,4789,10,Unknown,Unknown,4
+1513,Employee 1513,Research & Development,3180,4,Unknown,Unknown,3
+1514,Employee 1514,Research & Development,6549,8,Unknown,Unknown,3
+1515,Employee 1515,Research & Development,6388,14,Unknown,Unknown,3
+1516,Employee 1516,Research & Development,11244,10,Unknown,Unknown,4
+1520,Employee 1520,Research & Development,16032,26,Unknown,Unknown,4
+1522,Employee 1522,Research & Development,2362,11,Unknown,Unknown,3
+1523,Employee 1523,Research & Development,16328,24,Unknown,Unknown,3
+1525,Employee 1525,Research & Development,8376,9,Unknown,Unknown,3
+1527,Employee 1527,Sales,16606,23,Unknown,Unknown,3
+1529,Employee 1529,Research & Development,8606,11,Unknown,Unknown,3
+1533,Employee 1533,Research & Development,2272,5,Unknown,Unknown,3
+1534,Employee 1534,Research & Development,2018,15,Unknown,Unknown,3
+1535,Employee 1535,Sales,7083,10,Unknown,Unknown,3
+1537,Employee 1537,Research & Development,4084,7,Unknown,Unknown,3
+1539,Employee 1539,Research & Development,14411,32,Unknown,Unknown,3
+1541,Employee 1541,Sales,2308,12,Unknown,Unknown,4
+1542,Employee 1542,Research & Development,4841,4,Unknown,Unknown,3
+1543,Employee 1543,Research & Development,4285,10,Unknown,Unknown,3
+1544,Employee 1544,Research & Development,9715,9,Unknown,Unknown,3
+1545,Employee 1545,Research & Development,4320,5,Unknown,Unknown,3
+1546,Employee 1546,Research & Development,2132,8,Unknown,Unknown,4
+1547,Employee 1547,Research & Development,10124,24,Unknown,Unknown,3
+1548,Employee 1548,Sales,5473,9,Unknown,Unknown,3
+1549,Employee 1549,Research & Development,5207,15,Unknown,Unknown,3
+1550,Employee 1550,Human Resources,16437,21,Unknown,Unknown,4
+1551,Employee 1551,Research & Development,2296,2,Unknown,Unknown,3
+1552,Employee 1552,Research & Development,4069,8,Unknown,Unknown,3
+1553,Employee 1553,Research & Development,7441,10,Unknown,Unknown,3
+1554,Employee 1554,Sales,2430,6,Unknown,Unknown,4
+1555,Employee 1555,Research & Development,5878,12,Unknown,Unknown,3
+1556,Employee 1556,Sales,2644,7,Unknown,Unknown,4
+1557,Employee 1557,Sales,6439,18,Unknown,Unknown,3
+1558,Employee 1558,Research & Development,2451,5,Unknown,Unknown,3
+1560,Employee 1560,Sales,6392,8,Unknown,Unknown,3
+1562,Employee 1562,Sales,9714,10,Unknown,Unknown,3
+1563,Employee 1563,Human Resources,6077,10,Unknown,Unknown,3
+1564,Employee 1564,Research & Development,2450,3,Unknown,Unknown,3
+1568,Employee 1568,Sales,9250,9,Unknown,Unknown,3
+1569,Employee 1569,Research & Development,2074,1,Unknown,Unknown,3
+1572,Employee 1572,Research & Development,10169,34,Unknown,Unknown,3
+1573,Employee 1573,Research & Development,4855,7,Unknown,Unknown,3
+1574,Employee 1574,Research & Development,4087,9,Unknown,Unknown,3
+1576,Employee 1576,Research & Development,2367,10,Unknown,Unknown,3
+1577,Employee 1577,Research & Development,2972,1,Unknown,Unknown,3
+1578,Employee 1578,Sales,19586,36,Unknown,Unknown,4
+1580,Employee 1580,Research & Development,5484,9,Unknown,Unknown,3
+1581,Employee 1581,Research & Development,2061,1,Unknown,Unknown,4
+1582,Employee 1582,Sales,9924,10,Unknown,Unknown,3
+1583,Employee 1583,Sales,4198,8,Unknown,Unknown,3
+1585,Employee 1585,Sales,6815,15,Unknown,Unknown,3
+1586,Employee 1586,Research & Development,4723,10,Unknown,Unknown,3
+1587,Employee 1587,Research & Development,6142,10,Unknown,Unknown,3
+1588,Employee 1588,Sales,8237,11,Unknown,Unknown,3
+1590,Employee 1590,Research & Development,8853,6,Unknown,Unknown,3
+1591,Employee 1591,Sales,19331,27,Unknown,Unknown,3
+1592,Employee 1592,Research & Development,2073,4,Unknown,Unknown,3
+1594,Employee 1594,Research & Development,5562,9,Unknown,Unknown,3
+1595,Employee 1595,Research & Development,19613,24,Unknown,Unknown,4
+1596,Employee 1596,Research & Development,3407,10,Unknown,Unknown,3
+1597,Employee 1597,Research & Development,5063,8,Unknown,Unknown,3
+1598,Employee 1598,Sales,4639,5,Unknown,Unknown,3
+1599,Employee 1599,Research & Development,4876,8,Unknown,Unknown,3
+1601,Employee 1601,Research & Development,2690,1,Unknown,Unknown,3
+1602,Employee 1602,Sales,17567,27,Unknown,Unknown,3
+1604,Employee 1604,Research & Development,2408,1,Unknown,Unknown,3
+1605,Employee 1605,Research & Development,2814,4,Unknown,Unknown,3
+1606,Employee 1606,Research & Development,11245,32,Unknown,Unknown,3
+1607,Employee 1607,Research & Development,3312,6,Unknown,Unknown,3
+1608,Employee 1608,Research & Development,19049,23,Unknown,Unknown,3
+1609,Employee 1609,Research & Development,2141,6,Unknown,Unknown,3
+1611,Employee 1611,Research & Development,5769,10,Unknown,Unknown,3
+1612,Employee 1612,Sales,4385,10,Unknown,Unknown,3
+1613,Employee 1613,Sales,5332,10,Unknown,Unknown,3
+1614,Employee 1614,Research & Development,4663,7,Unknown,Unknown,3
+1615,Employee 1615,Research & Development,4724,9,Unknown,Unknown,3
+1617,Employee 1617,Research & Development,3211,10,Unknown,Unknown,3
+1618,Employee 1618,Research & Development,5377,10,Unknown,Unknown,3
+1619,Employee 1619,Research & Development,4066,7,Unknown,Unknown,3
+1621,Employee 1621,Research & Development,5208,16,Unknown,Unknown,3
+1622,Employee 1622,Research & Development,4877,6,Unknown,Unknown,4
+1623,Employee 1623,Research & Development,3117,3,Unknown,Unknown,3
+1624,Employee 1624,Sales,1569,0,Unknown,Unknown,3
+1625,Employee 1625,Human Resources,19658,27,Unknown,Unknown,3
+1627,Employee 1627,Research & Development,3069,11,Unknown,Unknown,3
+1628,Employee 1628,Research & Development,10435,18,Unknown,Unknown,3
+1630,Employee 1630,Research & Development,4148,15,Unknown,Unknown,3
+1631,Employee 1631,Research & Development,5768,9,Unknown,Unknown,3
+1633,Employee 1633,Research & Development,5042,10,Unknown,Unknown,3
+1635,Employee 1635,Research & Development,5770,10,Unknown,Unknown,3
+1638,Employee 1638,Research & Development,7756,10,Unknown,Unknown,3
+1639,Employee 1639,Sales,10306,15,Unknown,Unknown,3
+1640,Employee 1640,Research & Development,3936,8,Unknown,Unknown,3
+1641,Employee 1641,Research & Development,7945,18,Unknown,Unknown,3
+1642,Employee 1642,Human Resources,5743,14,Unknown,Unknown,3
+1644,Employee 1644,Research & Development,15202,23,Unknown,Unknown,4
+1645,Employee 1645,Sales,5440,7,Unknown,Unknown,3
+1646,Employee 1646,Research & Development,3760,6,Unknown,Unknown,3
+1647,Employee 1647,Research & Development,3517,5,Unknown,Unknown,3
+1648,Employee 1648,Research & Development,2580,6,Unknown,Unknown,3
+1649,Employee 1649,Research & Development,2166,10,Unknown,Unknown,3
+1650,Employee 1650,Sales,5869,8,Unknown,Unknown,3
+1651,Employee 1651,Research & Development,8008,9,Unknown,Unknown,3
+1653,Employee 1653,Research & Development,5206,7,Unknown,Unknown,3
+1654,Employee 1654,Research & Development,5295,7,Unknown,Unknown,4
+1655,Employee 1655,Research & Development,16413,27,Unknown,Unknown,3
+1656,Employee 1656,Research & Development,13269,19,Unknown,Unknown,3
+1657,Employee 1657,Sales,2783,2,Unknown,Unknown,3
+1658,Employee 1658,Research & Development,5433,11,Unknown,Unknown,3
+1659,Employee 1659,Research & Development,2013,15,Unknown,Unknown,3
+1661,Employee 1661,Research & Development,13966,30,Unknown,Unknown,3
+1662,Employee 1662,Research & Development,4374,4,Unknown,Unknown,3
+1664,Employee 1664,Research & Development,6842,13,Unknown,Unknown,4
+1665,Employee 1665,Research & Development,17426,36,Unknown,Unknown,4
+1666,Employee 1666,Research & Development,17603,14,Unknown,Unknown,4
+1667,Employee 1667,Sales,4581,13,Unknown,Unknown,4
+1668,Employee 1668,Research & Development,4735,19,Unknown,Unknown,3
+1669,Employee 1669,Sales,4187,10,Unknown,Unknown,3
+1670,Employee 1670,Sales,5505,6,Unknown,Unknown,3
+1671,Employee 1671,Research & Development,5470,10,Unknown,Unknown,3
+1673,Employee 1673,Sales,5476,10,Unknown,Unknown,3
+1674,Employee 1674,Research & Development,2587,17,Unknown,Unknown,3
+1675,Employee 1675,Research & Development,2440,4,Unknown,Unknown,4
+1676,Employee 1676,Sales,15972,29,Unknown,Unknown,3
+1677,Employee 1677,Research & Development,15379,23,Unknown,Unknown,3
+1678,Employee 1678,Sales,7082,21,Unknown,Unknown,3
+1680,Employee 1680,Sales,2728,2,Unknown,Unknown,3
+1681,Employee 1681,Sales,5368,7,Unknown,Unknown,4
+1682,Employee 1682,Research & Development,5347,10,Unknown,Unknown,3
+1683,Employee 1683,Human Resources,3195,8,Unknown,Unknown,3
+1684,Employee 1684,Research & Development,3989,5,Unknown,Unknown,3
+1687,Employee 1687,Research & Development,3306,7,Unknown,Unknown,3
+1689,Employee 1689,Research & Development,7005,11,Unknown,Unknown,3
+1691,Employee 1691,Sales,2655,19,Unknown,Unknown,3
+1692,Employee 1692,Research & Development,1393,1,Unknown,Unknown,3
+1693,Employee 1693,Research & Development,2570,7,Unknown,Unknown,4
+1694,Employee 1694,Research & Development,3537,8,Unknown,Unknown,3
+1696,Employee 1696,Research & Development,3986,15,Unknown,Unknown,3
+1697,Employee 1697,Research & Development,10883,19,Unknown,Unknown,4
+1698,Employee 1698,Research & Development,2028,14,Unknown,Unknown,3
+1700,Employee 1700,Sales,9525,6,Unknown,Unknown,3
+1701,Employee 1701,Research & Development,2929,10,Unknown,Unknown,3
+1702,Employee 1702,Sales,2275,3,Unknown,Unknown,4
+1703,Employee 1703,Research & Development,7879,9,Unknown,Unknown,3
+1704,Employee 1704,Research & Development,4930,6,Unknown,Unknown,3
+1706,Employee 1706,Sales,7847,10,Unknown,Unknown,3
+1707,Employee 1707,Research & Development,4401,5,Unknown,Unknown,3
+1708,Employee 1708,Sales,9241,10,Unknown,Unknown,3
+1709,Employee 1709,Research & Development,2974,9,Unknown,Unknown,3
+1710,Employee 1710,Sales,4502,17,Unknown,Unknown,3
+1712,Employee 1712,Research & Development,10748,25,Unknown,Unknown,4
+1714,Employee 1714,Human Resources,1555,1,Unknown,Unknown,3
+1716,Employee 1716,Sales,12936,25,Unknown,Unknown,3
+1718,Employee 1718,Research & Development,2305,3,Unknown,Unknown,3
+1719,Employee 1719,Research & Development,16704,21,Unknown,Unknown,3
+1720,Employee 1720,Research & Development,3433,10,Unknown,Unknown,3
+1721,Employee 1721,Research & Development,3477,6,Unknown,Unknown,3
+1722,Employee 1722,Human Resources,6430,10,Unknown,Unknown,3
+1724,Employee 1724,Research & Development,6516,18,Unknown,Unknown,3
+1725,Employee 1725,Research & Development,3907,6,Unknown,Unknown,3
+1727,Employee 1727,Research & Development,5562,19,Unknown,Unknown,3
+1728,Employee 1728,Research & Development,6883,17,Unknown,Unknown,3
+1729,Employee 1729,Research & Development,2862,10,Unknown,Unknown,3
+1731,Employee 1731,Sales,4978,4,Unknown,Unknown,3
+1732,Employee 1732,Sales,10368,13,Unknown,Unknown,3
+1733,Employee 1733,Sales,6134,16,Unknown,Unknown,3
+1734,Employee 1734,Sales,6735,10,Unknown,Unknown,3
+1735,Employee 1735,Research & Development,3295,3,Unknown,Unknown,3
+1736,Employee 1736,Research & Development,5238,9,Unknown,Unknown,4
+1737,Employee 1737,Research & Development,6472,9,Unknown,Unknown,3
+1739,Employee 1739,Sales,9610,10,Unknown,Unknown,3
+1740,Employee 1740,Sales,19833,21,Unknown,Unknown,3
+1744,Employee 1744,Human Resources,9756,9,Unknown,Unknown,4
+1745,Employee 1745,Research & Development,4968,10,Unknown,Unknown,3
+1746,Employee 1746,Human Resources,2145,3,Unknown,Unknown,3
+1747,Employee 1747,Human Resources,2180,6,Unknown,Unknown,3
+1749,Employee 1749,Sales,8346,6,Unknown,Unknown,3
+1751,Employee 1751,Research & Development,3445,6,Unknown,Unknown,3
+1752,Employee 1752,Sales,2760,2,Unknown,Unknown,3
+1753,Employee 1753,Research & Development,6294,10,Unknown,Unknown,3
+1754,Employee 1754,Sales,7140,12,Unknown,Unknown,3
+1755,Employee 1755,Research & Development,2932,6,Unknown,Unknown,3
+1756,Employee 1756,Sales,5147,13,Unknown,Unknown,3
+1757,Employee 1757,Sales,4507,8,Unknown,Unknown,3
+1758,Employee 1758,Sales,8564,11,Unknown,Unknown,4
+1760,Employee 1760,Research & Development,2468,9,Unknown,Unknown,3
+1761,Employee 1761,Sales,8161,10,Unknown,Unknown,3
+1762,Employee 1762,Research & Development,2109,1,Unknown,Unknown,3
+1763,Employee 1763,Research & Development,5294,10,Unknown,Unknown,3
+1764,Employee 1764,Research & Development,2718,12,Unknown,Unknown,3
+1766,Employee 1766,Research & Development,5811,15,Unknown,Unknown,3
+1767,Employee 1767,Research & Development,2437,6,Unknown,Unknown,3
+1768,Employee 1768,Research & Development,2766,7,Unknown,Unknown,4
+1770,Employee 1770,Research & Development,19038,34,Unknown,Unknown,3
+1771,Employee 1771,Research & Development,3055,11,Unknown,Unknown,3
+1772,Employee 1772,Research & Development,2289,5,Unknown,Unknown,4
+1774,Employee 1774,Sales,4001,15,Unknown,Unknown,3
+1775,Employee 1775,Research & Development,12965,27,Unknown,Unknown,4
+1778,Employee 1778,Human Resources,3539,10,Unknown,Unknown,3
+1779,Employee 1779,Sales,6029,6,Unknown,Unknown,3
+1780,Employee 1780,Sales,2679,1,Unknown,Unknown,3
+1782,Employee 1782,Research & Development,3702,5,Unknown,Unknown,3
+1783,Employee 1783,Research & Development,2398,1,Unknown,Unknown,3
+1784,Employee 1784,Sales,5468,13,Unknown,Unknown,3
+1786,Employee 1786,Research & Development,13116,15,Unknown,Unknown,3
+1787,Employee 1787,Sales,4189,5,Unknown,Unknown,3
+1789,Employee 1789,Research & Development,19328,24,Unknown,Unknown,3
+1790,Employee 1790,Research & Development,8321,15,Unknown,Unknown,3
+1792,Employee 1792,Research & Development,2342,6,Unknown,Unknown,3
+1794,Employee 1794,Human Resources,4071,19,Unknown,Unknown,3
+1797,Employee 1797,Sales,5813,10,Unknown,Unknown,3
+1798,Employee 1798,Research & Development,3143,14,Unknown,Unknown,3
+1799,Employee 1799,Research & Development,2044,5,Unknown,Unknown,3
+1800,Employee 1800,Research & Development,13464,9,Unknown,Unknown,4
+1801,Employee 1801,Sales,7991,6,Unknown,Unknown,3
+1802,Employee 1802,Research & Development,3377,7,Unknown,Unknown,3
+1803,Employee 1803,Research & Development,5538,10,Unknown,Unknown,3
+1804,Employee 1804,Research & Development,5762,15,Unknown,Unknown,3
+1805,Employee 1805,Human Resources,2592,13,Unknown,Unknown,3
+1807,Employee 1807,Research & Development,5346,11,Unknown,Unknown,3
+1809,Employee 1809,Research & Development,4213,10,Unknown,Unknown,3
+1812,Employee 1812,Sales,4127,7,Unknown,Unknown,3
+1813,Employee 1813,Research & Development,2438,7,Unknown,Unknown,3
+1814,Employee 1814,Research & Development,6870,11,Unknown,Unknown,3
+1815,Employee 1815,Sales,10447,23,Unknown,Unknown,3
+1816,Employee 1816,Research & Development,9667,9,Unknown,Unknown,3
+1818,Employee 1818,Human Resources,2148,6,Unknown,Unknown,3
+1821,Employee 1821,Research & Development,8926,13,Unknown,Unknown,4
+1822,Employee 1822,Research & Development,6513,12,Unknown,Unknown,3
+1823,Employee 1823,Sales,6799,10,Unknown,Unknown,4
+1824,Employee 1824,Sales,16291,37,Unknown,Unknown,4
+1826,Employee 1826,Research & Development,2705,6,Unknown,Unknown,3
+1827,Employee 1827,Research & Development,10333,28,Unknown,Unknown,3
+1829,Employee 1829,Research & Development,4448,15,Unknown,Unknown,3
+1830,Employee 1830,Research & Development,6854,14,Unknown,Unknown,3
+1833,Employee 1833,Sales,9637,9,Unknown,Unknown,3
+1834,Employee 1834,Research & Development,3591,3,Unknown,Unknown,4
+1835,Employee 1835,Sales,5405,20,Unknown,Unknown,4
+1836,Employee 1836,Sales,4684,5,Unknown,Unknown,3
+1837,Employee 1837,Research & Development,15787,23,Unknown,Unknown,3
+1839,Employee 1839,Research & Development,1514,0,Unknown,Unknown,3
+1842,Employee 1842,Human Resources,2956,2,Unknown,Unknown,3
+1844,Employee 1844,Human Resources,2335,4,Unknown,Unknown,3
+1845,Employee 1845,Sales,5154,10,Unknown,Unknown,4
+1847,Employee 1847,Research & Development,6962,15,Unknown,Unknown,4
+1849,Employee 1849,Sales,5675,7,Unknown,Unknown,4
+1850,Employee 1850,Research & Development,2379,6,Unknown,Unknown,3
+1852,Employee 1852,Research & Development,3812,11,Unknown,Unknown,3
+1853,Employee 1853,Sales,4648,4,Unknown,Unknown,3
+1854,Employee 1854,Research & Development,2936,10,Unknown,Unknown,4
+1856,Employee 1856,Research & Development,2105,7,Unknown,Unknown,3
+1857,Employee 1857,Research & Development,8578,12,Unknown,Unknown,3
+1858,Employee 1858,Human Resources,2706,3,Unknown,Unknown,3
+1859,Employee 1859,Research & Development,6384,11,Unknown,Unknown,3
+1860,Employee 1860,Research & Development,3968,8,Unknown,Unknown,3
+1862,Employee 1862,Sales,9907,7,Unknown,Unknown,3
+1863,Employee 1863,Sales,13225,25,Unknown,Unknown,3
+1864,Employee 1864,Sales,3540,9,Unknown,Unknown,4
+1865,Employee 1865,Human Resources,2804,1,Unknown,Unknown,3
+1866,Employee 1866,Research & Development,19392,21,Unknown,Unknown,3
+1867,Employee 1867,Research & Development,19665,29,Unknown,Unknown,3
+1868,Employee 1868,Research & Development,2439,1,Unknown,Unknown,4
+1869,Employee 1869,Sales,7314,14,Unknown,Unknown,4
+1870,Employee 1870,Research & Development,4774,8,Unknown,Unknown,3
+1871,Employee 1871,Research & Development,3902,7,Unknown,Unknown,3
+1873,Employee 1873,Research & Development,2662,19,Unknown,Unknown,4
+1875,Employee 1875,Sales,2856,1,Unknown,Unknown,3
+1876,Employee 1876,Sales,1081,1,Unknown,Unknown,3
+1878,Employee 1878,Research & Development,2472,1,Unknown,Unknown,4
+1880,Employee 1880,Sales,5673,10,Unknown,Unknown,3
+1881,Employee 1881,Research & Development,4197,10,Unknown,Unknown,3
+1882,Employee 1882,Sales,9713,9,Unknown,Unknown,3
+1883,Employee 1883,Research & Development,2062,11,Unknown,Unknown,3
+1885,Employee 1885,Research & Development,4284,16,Unknown,Unknown,4
+1886,Employee 1886,Research & Development,4788,4,Unknown,Unknown,3
+1888,Employee 1888,Research & Development,5906,10,Unknown,Unknown,3
+1890,Employee 1890,Human Resources,3886,10,Unknown,Unknown,4
+1892,Employee 1892,Research & Development,16823,22,Unknown,Unknown,3
+1893,Employee 1893,Research & Development,2933,1,Unknown,Unknown,3
+1898,Employee 1898,Sales,6500,9,Unknown,Unknown,3
+1900,Employee 1900,Research & Development,17174,24,Unknown,Unknown,3
+1903,Employee 1903,Research & Development,5033,10,Unknown,Unknown,3
+1905,Employee 1905,Research & Development,2307,5,Unknown,Unknown,4
+1907,Employee 1907,Research & Development,2587,5,Unknown,Unknown,3
+1908,Employee 1908,Sales,5507,12,Unknown,Unknown,3
+1909,Employee 1909,Sales,4393,14,Unknown,Unknown,4
+1911,Employee 1911,Research & Development,13348,18,Unknown,Unknown,3
+1912,Employee 1912,Sales,6583,8,Unknown,Unknown,3
+1915,Employee 1915,Sales,8103,9,Unknown,Unknown,3
+1916,Employee 1916,Research & Development,3978,4,Unknown,Unknown,3
+1918,Employee 1918,Research & Development,2544,8,Unknown,Unknown,3
+1922,Employee 1922,Research & Development,5399,12,Unknown,Unknown,3
+1924,Employee 1924,Sales,5487,10,Unknown,Unknown,3
+1927,Employee 1927,Sales,6834,7,Unknown,Unknown,3
+1928,Employee 1928,Sales,1091,1,Unknown,Unknown,3
+1929,Employee 1929,Sales,5736,10,Unknown,Unknown,3
+1931,Employee 1931,Research & Development,2226,6,Unknown,Unknown,3
+1932,Employee 1932,Research & Development,5747,16,Unknown,Unknown,3
+1933,Employee 1933,Sales,9854,6,Unknown,Unknown,3
+1934,Employee 1934,Research & Development,5467,16,Unknown,Unknown,3
+1935,Employee 1935,Sales,5380,6,Unknown,Unknown,3
+1936,Employee 1936,Research & Development,5151,10,Unknown,Unknown,4
+1937,Employee 1937,Research & Development,2133,20,Unknown,Unknown,3
+1938,Employee 1938,Sales,17875,29,Unknown,Unknown,3
+1939,Employee 1939,Research & Development,2432,8,Unknown,Unknown,3
+1940,Employee 1940,Research & Development,4771,10,Unknown,Unknown,3
+1941,Employee 1941,Research & Development,19161,28,Unknown,Unknown,3
+1943,Employee 1943,Sales,5087,14,Unknown,Unknown,3
+1944,Employee 1944,Human Resources,2863,1,Unknown,Unknown,3
+1945,Employee 1945,Sales,5561,6,Unknown,Unknown,3
+1947,Employee 1947,Research & Development,2144,5,Unknown,Unknown,3
+1948,Employee 1948,Research & Development,3065,4,Unknown,Unknown,3
+1949,Employee 1949,Research & Development,2810,5,Unknown,Unknown,4
+1950,Employee 1950,Sales,9888,14,Unknown,Unknown,4
+1951,Employee 1951,Sales,8628,9,Unknown,Unknown,3
+1952,Employee 1952,Research & Development,2867,8,Unknown,Unknown,3
+1954,Employee 1954,Research & Development,5373,6,Unknown,Unknown,3
+1955,Employee 1955,Research & Development,6667,9,Unknown,Unknown,3
+1956,Employee 1956,Research & Development,5003,10,Unknown,Unknown,4
+1960,Employee 1960,Research & Development,2367,6,Unknown,Unknown,3
+1961,Employee 1961,Sales,2858,20,Unknown,Unknown,3
+1962,Employee 1962,Sales,5204,10,Unknown,Unknown,3
+1965,Employee 1965,Sales,4105,7,Unknown,Unknown,3
+1966,Employee 1966,Research & Development,9679,8,Unknown,Unknown,4
+1967,Employee 1967,Sales,5617,10,Unknown,Unknown,3
+1968,Employee 1968,Sales,10448,15,Unknown,Unknown,3
+1969,Employee 1969,Research & Development,2897,9,Unknown,Unknown,3
+1970,Employee 1970,Research & Development,5968,9,Unknown,Unknown,4
+1971,Employee 1971,Research & Development,7510,10,Unknown,Unknown,3
+1972,Employee 1972,Human Resources,2991,7,Unknown,Unknown,3
+1973,Employee 1973,Human Resources,19636,35,Unknown,Unknown,3
+1974,Employee 1974,Research & Development,1129,1,Unknown,Unknown,3
+1975,Employee 1975,Sales,13341,21,Unknown,Unknown,3
+1976,Employee 1976,Research & Development,4332,20,Unknown,Unknown,3
+1979,Employee 1979,Research & Development,11031,13,Unknown,Unknown,4
+1980,Employee 1980,Research & Development,4440,9,Unknown,Unknown,3
+1981,Employee 1981,Research & Development,4617,4,Unknown,Unknown,3
+1982,Employee 1982,Research & Development,2647,5,Unknown,Unknown,3
+1985,Employee 1985,Research & Development,6323,10,Unknown,Unknown,3
+1986,Employee 1986,Sales,5677,15,Unknown,Unknown,3
+1987,Employee 1987,Human Resources,2187,6,Unknown,Unknown,3
+1989,Employee 1989,Research & Development,3748,12,Unknown,Unknown,3
+1992,Employee 1992,Research & Development,3977,7,Unknown,Unknown,3
+1993,Employee 1993,Research & Development,8633,25,Unknown,Unknown,4
+1994,Employee 1994,Research & Development,2008,1,Unknown,Unknown,3
+1995,Employee 1995,Sales,4440,16,Unknown,Unknown,3
+1996,Employee 1996,Sales,3067,3,Unknown,Unknown,3
+1997,Employee 1997,Research & Development,5321,10,Unknown,Unknown,3
+1998,Employee 1998,Research & Development,5410,9,Unknown,Unknown,3
+1999,Employee 1999,Research & Development,2782,12,Unknown,Unknown,4
+2000,Employee 2000,Research & Development,11957,14,Unknown,Unknown,3
+2003,Employee 2003,Research & Development,2660,5,Unknown,Unknown,3
+2007,Employee 2007,Research & Development,3375,4,Unknown,Unknown,3
+2008,Employee 2008,Research & Development,5098,10,Unknown,Unknown,3
+2009,Employee 2009,Research & Development,4878,10,Unknown,Unknown,3
+2010,Employee 2010,Research & Development,2837,6,Unknown,Unknown,3
+2012,Employee 2012,Research & Development,2406,8,Unknown,Unknown,3
+2013,Employee 2013,Sales,2269,3,Unknown,Unknown,3
+2014,Employee 2014,Research & Development,4108,18,Unknown,Unknown,3
+2015,Employee 2015,Research & Development,13206,20,Unknown,Unknown,3
+2016,Employee 2016,Sales,10422,14,Unknown,Unknown,3
+2017,Employee 2017,Research & Development,13744,16,Unknown,Unknown,4
+2018,Employee 2018,Sales,4907,6,Unknown,Unknown,4
+2019,Employee 2019,Sales,3482,16,Unknown,Unknown,3
+2020,Employee 2020,Research & Development,2436,6,Unknown,Unknown,3
+2021,Employee 2021,Sales,2380,2,Unknown,Unknown,3
+2022,Employee 2022,Research & Development,19431,21,Unknown,Unknown,3
+2023,Employee 2023,Sales,1790,1,Unknown,Unknown,3
+2024,Employee 2024,Sales,7644,10,Unknown,Unknown,3
+2025,Employee 2025,Research & Development,5131,18,Unknown,Unknown,3
+2026,Employee 2026,Research & Development,6306,13,Unknown,Unknown,4
+2027,Employee 2027,Research & Development,4787,4,Unknown,Unknown,3
+2031,Employee 2031,Research & Development,18880,24,Unknown,Unknown,3
+2032,Employee 2032,Research & Development,2339,14,Unknown,Unknown,3
+2034,Employee 2034,Research & Development,13570,21,Unknown,Unknown,4
+2035,Employee 2035,Sales,6712,8,Unknown,Unknown,4
+2036,Employee 2036,Sales,5406,15,Unknown,Unknown,4
+2037,Employee 2037,Sales,8938,14,Unknown,Unknown,3
+2038,Employee 2038,Research & Development,2439,4,Unknown,Unknown,3
+2040,Employee 2040,Human Resources,8837,9,Unknown,Unknown,3
+2041,Employee 2041,Sales,5343,10,Unknown,Unknown,3
+2044,Employee 2044,Sales,6728,12,Unknown,Unknown,3
+2045,Employee 2045,Sales,6652,8,Unknown,Unknown,3
+2046,Employee 2046,Sales,4850,8,Unknown,Unknown,3
+2048,Employee 2048,Research & Development,2809,8,Unknown,Unknown,3
+2049,Employee 2049,Research & Development,5689,10,Unknown,Unknown,3
+2051,Employee 2051,Research & Development,2001,20,Unknown,Unknown,3
+2052,Employee 2052,Research & Development,2977,4,Unknown,Unknown,3
+2053,Employee 2053,Research & Development,4025,10,Unknown,Unknown,3
+2054,Employee 2054,Research & Development,3785,5,Unknown,Unknown,3
+2055,Employee 2055,Sales,10854,20,Unknown,Unknown,3
+2056,Employee 2056,Sales,12031,21,Unknown,Unknown,3
+2057,Employee 2057,Research & Development,9936,10,Unknown,Unknown,3
+2060,Employee 2060,Sales,2966,5,Unknown,Unknown,3
+2061,Employee 2061,Research & Development,2571,17,Unknown,Unknown,3
+2062,Employee 2062,Research & Development,9991,9,Unknown,Unknown,3
+2064,Employee 2064,Research & Development,6142,6,Unknown,Unknown,4
+2065,Employee 2065,Sales,5390,17,Unknown,Unknown,3
+2068,Employee 2068,Research & Development,4404,6,Unknown,Unknown,3
+1
