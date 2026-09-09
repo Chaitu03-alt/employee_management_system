@@ -1,5 +1,7 @@
 # Employee Management System
 
+[![Tests](https://github.com/Chaitu03-alt/employee_management_system/actions/workflows/tests.yml/badge.svg)](https://github.com/Chaitu03-alt/employee_management_system/actions/workflows/tests.yml)
+
 Console-based employee management system with CSV persistence, Pandas-driven analytics, and a scikit-learn salary prediction model.
 
 ## Problem Statement
