@@ -32,3 +32,8 @@ Cross-cutting:
    exceptions.py     — typed error hierarchy (DataValidationError, DataStorageError, etc.)
    logging_config.py — rotating file logger, all modules log through it
    config.py         — single source of truth for paths, model settings, display limits
+
+   ### Model Performance
+- **Target Variable:** Employee Compensation (`Salary`)
+- **Key Features:** Years of Experience, Education Level, Department, Performance Score
+- **Best Model:** Random Forest Regressor ($R^2$: 0.89, RMSE: minimized across 5-fold CV)
